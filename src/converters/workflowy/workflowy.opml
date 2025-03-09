@@ -1,0 +1,3129 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+  <head>
+    <ownerEmail>
+      lvxuan126@126.com
+    </ownerEmail>
+  </head>
+  <body>
+    <outline text="我">
+      <outline text="文化输入">
+        <outline text="开智-科学" />
+        <outline text="商业工程">
+          <outline text="记者文化" />
+          <outline text="营销文化" />
+          <outline text="金融风控" />
+          <outline text="科技文化" />
+        </outline>
+        <outline text="单口喜剧-人文（1906加入）-" />
+        <outline text="" />
+        <outline text="翻译-可拓展文化（1906加入）" />
+      </outline>
+      <outline text="习惯">
+        <outline text="人" />
+        <outline text="品味">
+          <outline text="我有哪些坏习惯">
+            <outline text="" />
+          </outline>
+        </outline>
+        <outline text="工具">
+          <outline text="Apple日历" />
+          <outline text="workflowy" />
+          <outline text="git" />
+          <outline text="gitbook" />
+          <outline text="github-反思必备神器">
+            <outline text="模仿阳老师">
+              <outline text="ch01：成为会迭代的人-构建你迭代系统" />
+              <outline text="Ch02：好迭代、坏迭代" />
+              <outline text="ch03：全局犯错：做任何你想做的事" />
+              <outline text="ch04：分层犯错：错误系统的尺度" />
+              <outline text="ch05：犯错周期：" />
+              <outline text="ch06：你，是自己的犯错大师：犯错的连接" />
+              <outline text="ch07:   优化你的犯错系统" />
+            </outline>
+            <outline text="极客时间">
+              <outline text="课程讲什么？" />
+              <outline text="git">
+                <outline text="MVP最小可行实践策略">
+                  <outline text="最小配置" />
+                  <outline text="创建第一个仓库并配置本地" />
+                  <outline text="git的三个核心区域是什么？" />
+                </outline>
+                <outline text="rename重命名" />
+                <outline text="gitlog查看历史">
+                  <outline text="如何查看gitlog版本历史？" />
+                  <outline text="如何通过图形界面查看版本历史？" />
+                </outline>
+                <outline text="git根目录">
+                  <outline text="到底有什么宝贝？" />
+                  <outline text="commit、tree、blob之间有什么区别？" />
+                  <outline text="一个根目录底下tree到底有多少？" />
+                </outline>
+                <outline text="head/branch分离头">
+                  <outline text="分离头如何理解？">
+                    <outline text="和人的关注点一样" />
+                  </outline>
+                  <outline text="head和branch之间有什么区别？" />
+                </outline>
+                <outline text="git commit message 提交更新留言">
+                  <outline text="怎么修改最新的commit message？" />
+                  <outline text="怎么修改老旧的commit message?" />
+                  <outline text="怎么把多个commit 整成一个？" />
+                  <outline text="" />
+                </outline>
+                <outline text="git diff比较">
+                  <outline text="比较暂存区和head所含文件的差异" />
+                  <outline text="比较工作啊去和暂存区所含文件差异" />
+                </outline>
+                <outline text="git reset恢复">
+                  <outline text="如何让暂存区恢复到和head一样？" />
+                  <outline text="如何让工作区恢复到暂存区一样？" />
+                  <outline text="怎么取消暂存区部分文件更改？" />
+                  <outline text="怎么彻底消除最近几次提交？" />
+                </outline>
+                <outline text="git rm删除" />
+                <outline text="git stash临时加塞">
+                  <outline text="开发中临时加塞怎么处理？" />
+                </outline>
+                <outline text="gitignore">
+                  <outline text="如何指定不需要git管理的软件" />
+                </outline>
+              </outline>
+            </outline>
+            <outline text="pro git" />
+          </outline>
+          <outline text="PS">
+            <outline text="PS知识点">
+              <outline text="位图VS矢量图" />
+              <outline text="像素VS分辨率" />
+              <outline text="图像文件格式" />
+              <outline text="图层">
+                <outline text="概念">
+                  <outline text="堆叠的纸片" />
+                </outline>
+                <outline text="面板">
+                  <outline text="移动" />
+                  <outline text="堆叠" />
+                  <outline text="" />
+                </outline>
+                <outline text="类别">
+                  <outline text="当前图层" />
+                  <outline text="链接图层" />
+                  <outline text="剪贴蒙版" />
+                  <outline text="填充图层" />
+                  <outline text="图层蒙版图层" />
+                  <outline text="图层样式" />
+                  <outline text="图层组" />
+                  <outline text="变形文字" />
+                  <outline text="文字图层" />
+                  <outline text="背景图层" />
+                </outline>
+              </outline>
+            </outline>
+            <outline text="知识点">
+              <outline text="了解" />
+              <outline text="基础" />
+              <outline text="选区" />
+              <outline text="绘制和修饰" />
+              <outline text="色彩编辑" />
+              <outline text="图层" />
+              <outline text="路径" />
+              <outline text="文字" />
+              <outline text="通道和蒙版" />
+              <outline text="滤镜" />
+              <outline text="动作和批处理" />
+              <outline text="图像和打印" />
+            </outline>
+            <outline text="PS修图入门">
+              <outline text="拍照的错误示范">
+                <outline text="主题" />
+                <outline text="主体" />
+                <outline text="错误构图" />
+                <outline text="曝光" />
+                <outline text="色彩" />
+              </outline>
+              <outline text="清晰拍照流程">
+                <outline text="变焦格式" />
+                <outline text="稳" />
+                <outline text="低噪点" />
+              </outline>
+              <outline text="后期流程">
+                <outline text="构图" />
+                <outline text="细节" />
+                <outline text="光影层次" />
+                <outline text="色彩" />
+              </outline>
+            </outline>
+            <outline text="逆向工程好照片（原始的照片—变成漂亮的照片，经历哪些后期，拆解识别好照片）">
+              <outline text="路线图">
+                <outline text="基础后期知识" />
+                <outline text="插件工具" />
+                <outline text="重要思想" />
+                <outline text="反向破译路线图">
+                  <outline text="曝光" />
+                  <outline text="色彩" />
+                  <outline text="表面特征" />
+                  <outline text="质感" />
+                </outline>
+              </outline>
+              <outline text="数据库（后期的类型）" />
+              <outline text="后期工具">
+                <outline text="直方图" />
+                <outline text="曲线" />
+                <outline text="色阶" />
+                <outline text="混合模式" />
+                <outline text="Gamma值工具" />
+                <outline text="混合模式" />
+                <outline text="可选颜色" />
+                <outline text="堆栈" />
+                <outline text="分区调整" />
+              </outline>
+              <outline text="实战（方法+流程）" />
+              <outline text="后期分析体系">
+                <outline text="关注点">
+                  <outline text="曝光" />
+                  <outline text="色彩" />
+                  <outline text="暗角和刮痕" />
+                  <outline text="低光压缩" />
+                </outline>
+                <outline text="流程">
+                  <outline text="直方图" />
+                  <outline text="色彩" />
+                  <outline text="曝光" />
+                </outline>
+              </outline>
+              <outline text="后期数据库">
+                <outline text="用法案例总结">
+                  <outline text="可选颜色查询表" />
+                  <outline text="曲线查询表" />
+                  <outline text="直方图查询表" />
+                  <outline text="混合模式查询表" />
+                </outline>
+                <outline text="后期术语">
+                  <outline text="色彩">
+                    <outline text="色温" />
+                    <outline text="色调" />
+                    <outline text="饱和度" />
+                    <outline text="自然饱和度" />
+                  </outline>
+                  <outline text="光效" />
+                  <outline text="质感" />
+                  <outline text="畸变" />
+                  <outline text="HSL" />
+                  <outline text="曲线工具" />
+                  <outline text="渐变滤镜" />
+                  <outline text="径向滤镜" />
+                </outline>
+              </outline>
+            </outline>
+          </outline>
+          <outline text="效率">
+            <outline text="腾讯问卷：https://wj.qq.com/edit.html?sid=3584789" />
+          </outline>
+        </outline>
+        <outline text="模板">
+          <outline text="SolCopilot">
+            <outline text="工作台">
+              <outline text="时间分配">
+                <outline text="#教学设计" />
+                <outline text="#战略思考" />
+                <outline text="#团队管理 " />
+                <outline text="#Chaos" />
+              </outline>
+              <outline text="本周计划" />
+              <outline text="日志">
+                <outline text="周六">
+                  <outline text="反思">
+                    <outline text="HL及原因：" />
+                    <outline text="LL及原因：" />
+                    <outline text="Learning：" />
+                    <outline text="Act：">
+                      <outline text="开始做：" />
+                      <outline text="继续做：" />
+                      <outline text="停止做：" />
+                      <outline text="TODO list：" />
+                    </outline>
+                  </outline>
+                </outline>
+                <outline text="周五：">
+                  <outline text="反思">
+                    <outline text="HL及原因：" />
+                    <outline text="LL及原因：" />
+                    <outline text="Learning：" />
+                    <outline text="Act：">
+                      <outline text="开始做：" />
+                      <outline text="继续做：" />
+                      <outline text="停止做：" />
+                      <outline text="TODO list：" />
+                    </outline>
+                  </outline>
+                </outline>
+                <outline text="周四：">
+                  <outline text="反思 ">
+                    <outline text="HL及原因：" />
+                    <outline text="LL及原因：" />
+                    <outline text="Learning：" />
+                    <outline text="Act：">
+                      <outline text="开始做：" />
+                      <outline text="继续做：" />
+                      <outline text="停止做：" />
+                      <outline text="TODO list：" />
+                    </outline>
+                  </outline>
+                </outline>
+                <outline text="周三：">
+                  <outline text="反思">
+                    <outline text="HL及原因：" />
+                    <outline text="LL及原因：" />
+                    <outline text="Learning：" />
+                    <outline text="Act：">
+                      <outline text="开始做：" />
+                      <outline text="继续做：" />
+                      <outline text="停止做：" />
+                      <outline text="TODO list：" />
+                    </outline>
+                  </outline>
+                </outline>
+                <outline text="周二：">
+                  <outline text="反思 ">
+                    <outline text="HL及原因：" />
+                    <outline text="LL及原因：" />
+                    <outline text="Learning：" />
+                    <outline text="Act：">
+                      <outline text="开始做：" />
+                      <outline text="继续做：" />
+                      <outline text="停止做：" />
+                      <outline text="TODO list：" />
+                    </outline>
+                  </outline>
+                </outline>
+                <outline text="周一：">
+                  <outline text="13:30 参加公司周会" />
+                  <outline text="16:00 参加 TIA 决策会" />
+                  <outline text="反思">
+                    <outline text="HL及原因：" />
+                    <outline text="LL及原因：" />
+                    <outline text="Learning：" />
+                    <outline text="Act：">
+                      <outline text="开始做：" />
+                      <outline text="继续做：" />
+                      <outline text="停止做：" />
+                      <outline text="TODO list：" />
+                    </outline>
+                  </outline>
+                </outline>
+                <outline text="周日">
+                  <outline text="整合上周 learning 、行动举措" />
+                  <outline text="梳理填写下周要事为先表" />
+                  <outline text="反思">
+                    <outline text="HL及原因：" />
+                    <outline text="LL及原因：" />
+                    <outline text="Learning：" />
+                    <outline text="Act：">
+                      <outline text="开始做：" />
+                      <outline text="继续做：" />
+                      <outline text="停止做：" />
+                      <outline text="TODO list：" />
+                    </outline>
+                  </outline>
+                </outline>
+              </outline>
+            </outline>
+            <outline text="公司周报模板">
+              <outline text="OKR信心指数" />
+              <outline text="本周工作目标" />
+              <outline text="亮点Highlights" />
+              <outline text="改进点Lowlights" />
+              <outline text="成功根本原因" />
+              <outline text="失败根本原因" />
+              <outline text="规律总结和行动举措">
+                <outline text="继续保持" />
+                <outline text="开始做" />
+                <outline text="停止做" />
+              </outline>
+              <outline text="下周目标和计划" />
+              <outline text="学习与成长" />
+              <outline text="其他事项" />
+            </outline>
+            <outline text="碎片清单" />
+            <outline text="公司周会" />
+            <outline text="TIA 决策会" />
+          </outline>
+        </outline>
+      </outline>
+      <outline text="卡片">
+        <outline text="狂热分子">
+          <outline text="为什么吸引?">
+            <outline text="对改变的渴望？" />
+            <outline text="对替代品的渴望" />
+            <outline text="对潜在对手转化" />
+          </outline>
+          <outline text="吸引谁？" />
+          <outline text="如何吸引" />
+        </outline>
+        <outline text="公关">
+          <outline text="什么是公关？">
+            <outline text="错解">
+              <outline text="百度百科的解释" />
+            </outline>
+            <outline text="例子">
+              <outline text="可口可乐的例子" />
+            </outline>
+            <outline text="正确">
+              <outline text="核心问题：如何让别人传播你好（传播）？" _note="如何让别人传播你好？&#10;如何让别人不知道你坏？">
+                <outline text="奥美一句话">
+                  <outline text="我们帮助品牌构筑影响力，并长久维护声望。通过内容与故事的传播，感动并说服目标顾客，从而打造有机的企业品牌形象。此外，通过传播手段防微杜渐，缓解可能出现的危机，也是我们的业务专长。" />
+                </outline>
+                <outline text="1.定位">
+                  <outline text="别人眼中的你" />
+                  <outline text="自己眼中的你" />
+                  <outline text="我如何沟通共识？" />
+                </outline>
+                <outline text="2.和谁有共识？">
+                  <outline text="2.1全局节点共识">
+                    <outline text="政府" />
+                    <outline text="媒体" />
+                    <outline text="消费者" />
+                    <outline text="行业协会" />
+                    <outline text="非政府组织" />
+                  </outline>
+                  <outline text="2.2二级节点共识">
+                    <outline text="谁影响大，先影响谁" />
+                  </outline>
+                  <outline text="2.3不同阶段的共识">
+                    <outline text="谁限制比较大，先影响谁">
+                      <outline text="互联网金融行业，影响政府比较重要">
+                        <outline text="例子：DCC朱总和上层特别近" />
+                      </outline>
+                      <outline text="产品遍布市场的品牌：">
+                        <outline text="媒体，消费者是主要影响人群" />
+                      </outline>
+                    </outline>
+                    <outline text="谁影响大，先影响谁" />
+                    <outline text="谁难啃，先搞定谁" />
+                  </outline>
+                </outline>
+                <outline text="3共识如何形成？">
+                  <outline text="3.1我有什么值得传播？">
+                    <outline text="品牌">
+                      <outline text="品牌国际化了么？">
+                        <outline text="，" />
+                      </outline>
+                      <outline text="如何做好品牌策划？">
+                        <outline text="品牌塑造原则">
+                          <outline text="公司利益" />
+                          <outline text="风险规避" />
+                          <outline text="循序渐进" />
+                        </outline>
+                        <outline text="品牌定位的方式：外部思维、差异化、占据品类；" />
+                        <outline text="品牌传播的方式：广告、公关、内容营销；" />
+                        <outline text="品牌管理的方法：严守“原动力”，运营配称，法律保护" />
+                      </outline>
+                      <outline text="如何做好CEO的品牌形象管理？">
+                        <outline text="表达能力和表达意愿的2*2矩阵" />
+                        <outline text="曝光需要注意什么？">
+                          <outline text="计划和临时应邀的矛盾" />
+                        </outline>
+                      </outline>
+                    </outline>
+                    <outline text="产品" />
+                    <outline text="内容">
+                      <outline text="找媒体夸：付费" />
+                      <outline text="找跨界夸：合作" />
+                    </outline>
+                    <outline text="活动">
+                      <outline text="如何策划高报到率的发布会？">
+                        <outline text=" " />
+                      </outline>
+                      <outline text="活动原则">
+                        <outline text="特点">
+                          <outline text="配合品牌和业务目标有主题的活动，多元的客户，以及明确的结果" />
+                        </outline>
+                        <outline text="要素">
+                          <outline text="筹备">
+                            <outline text="原则">
+                              <outline text="领导优先" />
+                              <outline text="场地优先" />
+                            </outline>
+                            <outline text="时间选择" />
+                            <outline text="活动执行资源" />
+                            <outline text="活动预算管理" />
+                            <outline text="A-HA moment">
+                              <outline text="产品发布">
+                                <outline text="根据产品特点" />
+                              </outline>
+                              <outline text="业务成就">
+                                <outline text="重要销售指标" />
+                                <outline text="突出影响力" />
+                                <outline text="以视频为主" />
+                              </outline>
+                              <outline text="伙伴关系">
+                                <outline text="合资" />
+                                <outline text="合作" />
+                                <outline text="交易" />
+                              </outline>
+                            </outline>
+                          </outline>
+                          <outline text="主题" />
+                          <outline text="流程" />
+                          <outline text="出席领导" />
+                          <outline text="嘉宾和观众" />
+                          <outline text="场地选择" />
+                          <outline text="活动文字和多媒体材料" />
+                          <outline text="活动效果评估" />
+                        </outline>
+                      </outline>
+                      <outline text="如何给公关活动策划邀请和礼品？" />
+                      <outline text="如何给一场公关活动起个好名字？" />
+                      <outline text="如何撰写高吸引力的新闻通稿？">
+                        <outline text="" />
+                      </outline>
+                      <outline text="如何写好领导讲话稿？">
+                        <outline text="用领导思考,再用币领导还高的方式用文字表达" />
+                      </outline>
+                      <outline text="如何安排一场高质量的高管专访？" />
+                      <outline text="企业如何接待政府？" />
+                      <outline text="" />
+                    </outline>
+                  </outline>
+                  <outline text="3.2谁帮我传播？">
+                    <outline text="大V">
+                      <outline text="政策决策者" />
+                      <outline text="公众意见领袖" />
+                      <outline text="产品专家" />
+                    </outline>
+                    <outline text="媒体">
+                      <outline text="如何高效积累媒体资源？" />
+                      <outline text="国外">
+                        <outline text="他们更多强调客观平衡，很少受人情影响" />
+                        <outline text="写好的稿子不给采访对象审" />
+                        <outline text="事先一般不提供问题，只提供采访话题范围" />
+                        <outline text="与记者相比，编辑的决策权极大" />
+                        <outline text="驻外记者轮换频繁，负责领域多" />
+                      </outline>
+                      <outline text="国内">
+                        <outline text="媒体有什么需求？">
+                          <outline text="新闻线索" />
+                          <outline text="新闻活动" />
+                          <outline text="高管专访" />
+                          <outline text="参观企业" />
+                        </outline>
+                      </outline>
+                    </outline>
+                    <outline text="朋友" />
+                  </outline>
+                  <outline text="3.3怎么检验传播效果？">
+                    <outline text="全局反馈" />
+                    <outline text="撬动大节点反馈" />
+                    <outline text="销售转化率" />
+                  </outline>
+                </outline>
+              </outline>
+            </outline>
+          </outline>
+          <outline text="涉及的学科">
+            <outline text="涉及学科">
+              <outline text="传播学" />
+              <outline text="新闻学" />
+              <outline text="心理学" />
+              <outline text="社会学" />
+            </outline>
+            <outline text="推荐书籍">
+              <outline text="市场营销" />
+              <outline text="全球整合营销传播" />
+              <outline text="宣传" />
+              <outline text="取悦公众" />
+              <outline text="每一分钟诞生一位顾客" />
+              <outline text="不做总统就做广告人" />
+              <outline text="定位" />
+              <outline text="引爆点" />
+              <outline text="让创意更有粘性" />
+            </outline>
+            <outline text="公众号">
+              <outline text="公关界的007" />
+              <outline text="骏小宝" />
+              <outline text="李倩说品牌" />
+              <outline text="老金扯谈" />
+              <outline text="万能的大叔" />
+              <outline text="闫跃龙姜茶茶" />
+              <outline text="小马宋" />
+              <outline text="PR人" />
+              <outline text="姐夫李" />
+              <outline text="品牌几何" />
+              <outline text="魏家东" />
+              <outline text="营销新榜样" />
+              <outline text="赵圆圆谈广告" />
+              <outline text="中国公关网" />
+              <outline text="营销奇葩说" />
+              <outline text="中国广告" />
+              <outline text="肖明超-趋势观察" />
+              <outline text="17PR" />
+              <outline text="李叫兽" />
+              <outline text="苏秦会" />
+            </outline>
+          </outline>
+          <outline text="实践工作者">
+            <outline text="能力图谱">
+              <outline text="人际交往" />
+              <outline text="写作能力" />
+              <outline text="主持" />
+              <outline text="翻译" />
+              <outline text="灵活性" />
+            </outline>
+            <outline text="职业素养">
+              <outline text="对领导的理解力">
+                <outline text="靠·什么走到今天的位置？" />
+                <outline text="为什么做出这样的决定?" />
+                <outline text="影响决定的有哪些人和因素" />
+              </outline>
+              <outline text="对重要问题的敏感度">
+                <outline text="政治问题" />
+                <outline text="法律问题" />
+                <outline text="产品问题" />
+                <outline text="竞争对手" />
+                <outline text="老板习惯" />
+              </outline>
+              <outline text="自己独特的人际交往风格">
+                <outline text="你是否有在理解领导意图方面的经历和困惑？" />
+              </outline>
+            </outline>
+          </outline>
+        </outline>
+        <outline text="youtuber">
+          <outline text="版权copyright" />
+          <outline text="前期">
+            <outline text="照明" />
+          </outline>
+          <outline text="制作影片">
+            <outline text="youtube缩略图" />
+            <outline text="预告片" />
+            <outline text="画面和片尾" />
+            <outline text="" />
+          </outline>
+          <outline text="避免">
+            <outline text="https://www.filmora.io/community-blog/8-mistakes-to-avoid-as-a-new-youtuber-407.html" />
+          </outline>
+        </outline>
+        <outline text="认知与设计（从认知科学看设计》">
+          <outline text="大脑如何完成视觉感知？" />
+          <outline text="人脑视觉工作原理-格式塔" />
+          <outline text="如何易读易写？" />
+          <outline text="如何使用颜色？" />
+          <outline text="什么不会被注意到？" />
+          <outline text="注意、记忆、视觉系统？">
+            <outline text="短时记忆和长时记忆对设计的影响" />
+            <outline text="短时记忆、有限注意" />
+            <outline text="长时记忆，识别。回忆" />
+          </outline>
+        </outline>
+      </outline>
+      <outline text="日模板">
+        <outline text="To-DO List">
+          <outline text="Now" />
+          <outline text="TOday" />
+          <outline text="This Week" />
+        </outline>
+        <outline text="Projects">
+          <outline text="拉拢专家">
+            <outline text="Done" />
+            <outline text="In PRogress" />
+            <outline text="" />
+          </outline>
+        </outline>
+        <outline text="Development" />
+        <outline text="Thought Log" />
+        <outline text="Reading" />
+        <outline text="Schedule" />
+      </outline>
+      <outline text="日模板">
+        <outline text="Info">
+          <outline text="时代汪洋，用信任过滤信息" />
+          <outline text="信息+对应链接" />
+        </outline>
+        <outline text="Todo">
+          <outline text="一次只记录一事，最小行动撬动进程" />
+          <outline text="具体行动带你+相关人+交付时间" />
+        </outline>
+        <outline text="Done">
+          <outline text="任务描述+时间+成果链接" />
+        </outline>
+        <outline text="Flow">
+          <outline text="我们的生活不只有工具理性，还有美和好奇" />
+          <outline text="心流时间+对应事件" />
+        </outline>
+        <outline text="Question">
+          <outline text="苦思无果，不妨列出，留着解决" />
+          <outline text="问题描述+思考方案" />
+        </outline>
+        <outline text="Need">
+          <outline text="你不是一做孤岛，岛屿与岛屿的守望，才有安居乐业" />
+          <outline text="推进事情过程中，需要谁的帮助？" />
+          <outline text="模板：任务描述+需求+人" />
+        </outline>
+      </outline>
+      <outline text="第 X 周 (模板)  #template">
+        <outline text="工作台">
+          <outline text="时间分配">
+            <outline text="#执行具体业务" />
+            <outline text="#组织发展-激励和发展团队" />
+            <outline text="#组织发展-向上管理" />
+            <outline text="#战略思考" />
+            <outline text="#对外输出" />
+            <outline text="#Chaos" />
+          </outline>
+          <outline text="本周目标" />
+          <outline text="日志">
+            <outline text="周六">
+              <outline text="反思：">
+                <outline text="本周学会了哪些原本不知道的概念和方法论?" />
+                <outline text="哪些已有的概念和方法论被进一步打磨了？" />
+              </outline>
+            </outline>
+            <outline text="周五：">
+              <outline text="反思：">
+                <outline text="做减法">
+                  <outline text="今天有哪些事情 ROI 不高、存在浪费？" />
+                  <outline text="如果重来，可如何调整以减少浪费？" />
+                  <outline text="明天的工作，可从中借鉴什么？" />
+                </outline>
+              </outline>
+            </outline>
+            <outline text="周四：">
+              <outline text="复盘，定下周目标" />
+              <outline text="反思：">
+                <outline text="做减法">
+                  <outline text="今天有哪些事情 ROI 不高、存在浪费？" />
+                  <outline text="如果重来，可如何调整以减少浪费？" />
+                  <outline text="明天的工作，可从中借鉴什么？" />
+                </outline>
+              </outline>
+            </outline>
+            <outline text="周三：">
+              <outline text="1600-1800 外脑会" />
+              <outline text="反思：">
+                <outline text="做减法">
+                  <outline text="今天有哪些事情 ROI 不高、存在浪费？" />
+                  <outline text="如果重来，可如何调整以减少浪费？" />
+                  <outline text="明天的工作，可从中借鉴什么？" />
+                </outline>
+              </outline>
+            </outline>
+            <outline text="周二：">
+              <outline text="反思：">
+                <outline text="做减法">
+                  <outline text="今天有哪些事情 ROI 不高、存在浪费？" />
+                  <outline text="如果重来，可如何调整以减少浪费？" />
+                  <outline text="明天的工作，可从中借鉴什么？" />
+                </outline>
+              </outline>
+            </outline>
+            <outline text="周一：">
+              <outline text="反思：">
+                <outline text="做减法">
+                  <outline text="今天有哪些事情 ROI 不高、存在浪费？" />
+                  <outline text="如果重来，可如何调整以减少浪费？" />
+                  <outline text="明天的工作，可从中借鉴什么？" />
+                </outline>
+              </outline>
+            </outline>
+            <outline text="周日">
+              <outline text="整合上周 learning 、行动举措 1h" />
+              <outline text="反思：" />
+            </outline>
+          </outline>
+        </outline>
+        <outline text="公司周报模板">
+          <outline text="OKR信心指数" />
+          <outline text="本周工作目标" />
+          <outline text="亮点Highlights" />
+          <outline text="成功根本原因" />
+          <outline text="改进点Lowlights" />
+          <outline text="失败根本原因" />
+          <outline text="规律总结和行动举措">
+            <outline text="继续保持" />
+            <outline text="开始做" />
+            <outline text="停止做" />
+          </outline>
+          <outline text="下周目标和计划" />
+          <outline text="学习与成长" />
+          <outline text="其他事项" />
+        </outline>
+        <outline text="碎片清单" />
+      </outline>
+      <outline text="清单">
+        <outline text="牛人清单">
+          <outline text="Sage-Lib （牛人智库）" _note="#Tag  #Plugin #理性 #学习 #智者 #行动 #模式  #复杂系统 #组织管理 #判断决策 #问题解决 ">
+            <outline text="「关注大师的言行，跟随大师的举动，和大师一并修行，领会大师的意境」。">
+              <outline text="智者清单，时间源头" _note="[Zotero | Groups &amp;gt; openmindclub &amp;gt; Library &amp;gt; wisdom-sage](https://www.zotero.org/groups/1568450/openmindclub/items/collectionKey/ZABJPABM)" />
+              <outline text="—— 构建个人的知识图谱" />
+            </outline>
+            <outline text="追寻智慧之旅：做知识的游牧民族，抵达智慧流淌之地。">
+              <outline text="行动科学- 儒家哲学" _note="[Zotero | Groups &amp;gt; openmindclub &amp;gt; Library &amp;gt; action_philosophy](https://www.zotero.org/groups/1568450/openmindclub/items/collectionKey/WPM58AK9)&#10;">
+                <outline text="儒学&amp;本土心理学&amp;行动科学：王阳明、杜维明、 钱穆、李亦园、 杨中芳、杨国枢、黄光国、瓦茨拉维、阿吉里斯、温格">
+                  <outline text="王阳明 （Wang Yangming）" />
+                  <outline text="杜维明 （Tu Weiming）" />
+                  <outline text=" 钱穆 （Ch'ien Mu）" />
+                  <outline text="李亦园" />
+                  <outline text="杨中芳" />
+                  <outline text="杨国枢" />
+                  <outline text="黄光国" />
+                  <outline text="瓦茨拉维克 （Paul Watzlawick）" />
+                  <outline text="阿吉里斯 （Chris Argyris）" />
+                  <outline text="温格 （Etienne Wenger）" />
+                </outline>
+                <outline text="" />
+              </outline>
+              <outline text="认知-神经-心理学" _note="[Zotero | Groups &amp;gt; openmindclub &amp;gt; Library &amp;gt; Cogn_Neuro_Psycho](https://www.zotero.org/groups/1568450/openmindclub/items/collectionKey/XC9IWRZC)&#10;">
+                <outline text="认知-神经-心理科学家：西蒙、斯坦诺维奇、平克、卡尼曼、科恩、吉仁泽、 坎德尔、达马西奥、莫斯科维奇、徳韦克、海特、塞利格曼、塞尔、津巴多、德尔纳、克莱因、帕金斯、托马塞洛、威林厄姆、奈瑟尔">
+                  <outline text="西蒙 (H.A.Simon ；司马贺已归到智者一类)" />
+                  <outline text="斯坦诺维奇 ( Keith Stanovich )" _note=" #理性 #学习 &#10;双进程理论，三重智力模型，心智软件，工具理性和广义理性，认知去耦，元表征&#10;&#10; [Zotero | Groups &amp;gt; openmindclub &amp;gt; Library &amp;gt; Keith Stanovich](https://www.zotero.org/groups/1568450/openmindclub/items/collectionKey/A3F3ADGG)&#10;" />
+                  <outline text="平克 （Steven Pinker）" />
+                  <outline text="卡尼曼 （Daniel Kahnenman）" />
+                  <outline text="奈瑟尔 （Ulric Neisser ）" />
+                  <outline text="科恩 （Alfie Kohn）" />
+                  <outline text="吉仁泽 （Gerd Gigerenzer ）" />
+                  <outline text="坎德尔 （Eric R.Kandel）" />
+                  <outline text="达马西奥 （Antonio Damasio）" />
+                  <outline text="莫斯科维奇 （Serge Moscovici ）" />
+                  <outline text="徳韦克 （Carol Dweck ）" />
+                  <outline text="海特 （Jonathan Haidt）" />
+                  <outline text="塞利格曼 （Martin Seligman）" />
+                  <outline text="塞尔 （J.R.Searle）" />
+                  <outline text="津巴多 （Philip George Zimbardo）" />
+                  <outline text="德尔纳 （Dietrich dorner）" />
+                  <outline text="克莱因 （Gary Klein）" />
+                  <outline text="帕金斯 （David N. Perkins）" _note="认知技术，学习迁移" />
+                  <outline text="托马塞洛 （Michael Tomasello ）" />
+                  <outline text="威林厄姆 （Daniel T. Willingham）" />
+                </outline>
+                <outline text="" />
+              </outline>
+              <outline text="演化论-历史学" _note="[Zotero | Groups &amp;gt; openmindclub &amp;gt; Library &amp;gt; Evolution_history](https://www.zotero.org/groups/1568450/openmindclub/items/collectionKey/TJEREJ2U)&#10;">
+                <outline text="历史学：王泛森、余英时">
+                  <outline text="王泛森" />
+                  <outline text="余英时 （Yu Ying-shih）" />
+                </outline>
+                <outline text="进化论：威尔逊、邓巴、达尔文、道金斯、丹尼特、古尔德、卡尔·萨根">
+                  <outline text="威尔逊 （David Sloan Wilson）" />
+                  <outline text="邓巴 （Robin Dunbar）" />
+                  <outline text="达尔文 （Charles Robert Darwin）" />
+                  <outline text="道金斯 （Richard Dawkins）" />
+                  <outline text="丹尼特 （Daniel C.Dennett）" />
+                  <outline text="古尔德 （Stephen Jay Gould）" />
+                  <outline text="卡尔·萨根 （Carl Edward Sagan ）" />
+                </outline>
+                <outline text="" />
+              </outline>
+              <outline text="创新与设计" _note="[Zotero | Groups &amp;gt; openmindclub &amp;gt; Library &amp;gt; Innovation_Design](https://www.zotero.org/groups/1568450/openmindclub/items/collectionKey/92FU6UJH)&#10;">
+                <outline text="创新：阿奇苏勒、野中育次郎、诺曼 、契克森米哈赖、钱德拉塞卡">
+                  <outline text="阿奇苏勒 （Genrikh Saulovich Altshuller ）" />
+                  <outline text="野中育次郎 （Ikujiro Nonaka）" />
+                  <outline text="诺曼  （Donald Arthur Norman）" />
+                  <outline text="契克森米哈赖 （Mihaly Csikszentmihalyi）" />
+                  <outline text="钱德拉塞卡 （Subrahmanyan Chandrasekhar）" />
+                </outline>
+                <outline text="设计师：深泽直人、黑川雅之">
+                  <outline text="深泽直人 （ふかさわ なおと； Fukasawa Naoto）" />
+                  <outline text="黑川雅之 （Masayuki Kurokawa）" />
+                </outline>
+                <outline text="编辑：布罗克曼">
+                  <outline text="布罗克曼 （John Brockman）" />
+                </outline>
+                <outline text="" />
+              </outline>
+              <outline text="语言学-叙事学-修辞学" _note="[Zotero | Groups &amp;gt; openmindclub &amp;gt; Library &amp;gt; linguistics_narrative_rhetoric](https://www.zotero.org/groups/1568450/openmindclub/items/collectionKey/F8SFBVI8)">
+                <outline text="语言学： 韩礼德、莱科夫、齐夫">
+                  <outline text=" 韩礼德 （ Michael Alexander Kirkwood Halliday，M.A.K.Halliday）" />
+                  <outline text="莱科夫 （George P. Lakoff）" />
+                  <outline text="齐夫 （George Kingsley Zipf ）" />
+                </outline>
+                <outline text="叙事学&amp;人类学：普林斯、坎贝尔">
+                  <outline text="普林斯 （Gerald Prince）" />
+                  <outline text="坎贝尔 （Joseph Campbell）" />
+                </outline>
+                <outline text="修辞学：佐藤信夫 （さとう のぶお）">
+                  <outline text="佐藤信夫 （さとう のぶお）" />
+                </outline>
+                <outline text="" />
+              </outline>
+              <outline text="文学-作家-译者" _note="[Zotero | Groups &amp;gt; openmindclub &amp;gt; Library &amp;gt; literary_writer_translator](https://www.zotero.org/groups/1568450/openmindclub/items/collectionKey/2D8FPBJA)&#10;">
+                <outline text="西方文论：津瑟">
+                  <outline text="津瑟 （William Zinsser）" />
+                </outline>
+                <outline text="中国古典文论：顾随、宇文所安">
+                  <outline text="顾随" />
+                  <outline text="宇文所安 （Stephen Owen）" />
+                </outline>
+                <outline text="翻译家：傅雷、钱歌川、王佐良">
+                  <outline text="傅雷" />
+                  <outline text="钱歌川" />
+                  <outline text="王佐良" />
+                </outline>
+                <outline text="中国作家：陶渊明、王维、韩愈、辛弃疾、鲁迅、余光中、钱钟书、张爱玲、夏志清、">
+                  <outline text="陶渊明" />
+                  <outline text="王维" />
+                  <outline text="韩愈" />
+                  <outline text="辛弃疾" />
+                  <outline text="鲁迅" />
+                  <outline text="余光中" />
+                  <outline text="钱钟书" />
+                  <outline text="张爱玲 （Eileen Chang）" />
+                  <outline text="夏志清 （C. T. Hsia）" />
+                </outline>
+                <outline text="西方作家：艾柯、卡尔维诺、毛姆、怀特、博尔赫斯、纳博科夫、阿西莫夫、 伍尔芙 、海明威、泽拉兹尼、奥威尔、蒙田、休谟、索德格朗、茨威格">
+                  <outline text="艾柯 （Umberto Eco）" />
+                  <outline text="卡尔维诺 （ Italo Calvino）" />
+                  <outline text="毛姆 （W. Somerset Maugham）" />
+                  <outline text="怀特 （E. B. White）" />
+                  <outline text="博尔赫斯 （Jorge Luis Borges）" />
+                  <outline text="纳博科夫 （Vladimir Nabokov）" />
+                  <outline text="阿西莫夫 （Isaac Asimov）" />
+                  <outline text="伍尔芙  （Virginia Woolf）" />
+                  <outline text="海明威 （Ernest Hemingway）" />
+                  <outline text="泽拉兹尼 （Roger Zelazny）" />
+                  <outline text="奥威尔 （George Orwell）" />
+                  <outline text="蒙田 （Michel de Montaigne）" />
+                  <outline text="休谟 （David Hume）" />
+                  <outline text="索德格朗 （Edith Södergran）" />
+                  <outline text="茨威格 （Stefan Zweig）" />
+                </outline>
+                <outline text="日本作家：夏目漱石、村上春树、太宰治">
+                  <outline text="夏目漱石 （Natsume Sōseki）" />
+                  <outline text="村上春树 （Haruki Murakami）" />
+                  <outline text="太宰治 （Osamu Dazai）" />
+                </outline>
+                <outline text="" />
+              </outline>
+              <outline text="数学" _note="[Zotero | Groups &amp;gt; openmindclub &amp;gt; Library &amp;gt; math](https://www.zotero.org/groups/1568450/openmindclub/items/collectionKey/J9W4RRGZ)&#10;">
+                <outline text="数学：波利亚、加德纳、哥德尔">
+                  <outline text="波利亚 （George Pólya）" />
+                  <outline text="加德纳 （Martin Gardner）" />
+                  <outline text="哥德尔 （Kurt Friedrich Gödel）" />
+                </outline>
+              </outline>
+              <outline text="网络科学和社会学" _note="[Zotero | Groups &amp;gt; openmindclub &amp;gt; Library &amp;gt; network_sociology](https://www.zotero.org/groups/1568450/openmindclub/items/collectionKey/TBNKUQAP)">
+                <outline text="网络科学：侯世达、纽曼、邓肯·瓦茨、霍兰、巴克、克莱因伯格、巴拉巴西、沃尔夫勒姆">
+                  <outline text="侯世达 （Dauglas R. Hofstadter）" />
+                  <outline text="纽曼 （Mark Newman; M.E.J.Newman）" />
+                  <outline text="邓肯·瓦茨 （Duncan J.Watts）" />
+                  <outline text="霍兰 （John Henry Holland）" />
+                  <outline text="巴克 （Per Bak）" />
+                  <outline text="克莱因伯格（Jon Kleinberg）" />
+                  <outline text="巴拉巴西 （Albert-László Barabási）" />
+                  <outline text="沃尔夫勒姆  （Stephen Wolfram ）" />
+                </outline>
+                <outline text="社会学：格兰诺维特、伯特">
+                  <outline text="格兰诺维特 （Mark Granovetter）" />
+                  <outline text="伯特 （Ronald Stuart Burt）" />
+                </outline>
+              </outline>
+              <outline text="智者与元典" _note="[Zotero | Groups &amp;gt; openmindclub &amp;gt; Library &amp;gt; sage_canon](https://www.zotero.org/groups/1568450/openmindclub/items/collectionKey/GZZ3KC3N )&#10;">
+                <outline text="元典：古诗源、易经、道德经、论语、柏拉图、亚里士多德">
+                  <outline text="古诗源  （沈德潜）" />
+                  <outline text="易经 （I Ching）" />
+                  <outline text="道德经 （Tao Te Ching）" />
+                  <outline text="论语 （Analects）" />
+                  <outline text="柏拉图 （Plato）" />
+                  <outline text="亚里士多德 （Aristotle）" />
+                </outline>
+                <outline text="智者：芒格、费曼、司马贺、德鲁克">
+                  <outline text="芒格 （Charlie Thomas Munger）#理性  #智者 #理性" />
+                  <outline text="费曼 （Richard Phillips Feynman）  " _note=" #智者  " />
+                  <outline text="司马贺 （Herbert Alexander Simon；H.A.Simon） #智者  #理性" _note="#模式  #复杂系统 #组织管理 #问题解决&#10;有限理性 满意决策 人工科学 组织行为 万物皆模式  迷宫与花园&#10;&#10;[Zotero | Groups &amp;gt; openmindclub &amp;gt; Library &amp;gt; H.A.Simon](https://www.zotero.org/groups/1568450/openmindclub/items/collectionKey/EV2JN3EP)&#10;" />
+                  <outline text="德鲁克 （Peter Drucker） #智者 " />
+                </outline>
+                <outline text="管理学：马奇、明茨伯格">
+                  <outline text="马奇 （James G. March） #智者 " />
+                  <outline text="明茨伯格 （ Henry Mintzberg）" />
+                </outline>
+                <outline text="哲学：维特根斯坦">
+                  <outline text="维特根斯坦 （Ludwig Wittgenstein）" />
+                </outline>
+              </outline>
+            </outline>
+            <outline text="" />
+          </outline>
+          <outline text="写作清单模板">
+            <outline text="基础">
+              <outline text="字词">
+                <outline text="减少抽象词的比例，如「表现」「模式」「水平」">
+                  <outline text="改前：有趣是对生活游刃有余经历过剩的&lt;b&gt;表现&lt;/b&gt;" />
+                  <outline text="改后：有趣来自过剩" />
+                </outline>
+                <outline text="解放「僵尸名词」，删去「万能动词」，如「做出」「进行」">
+                  <outline text="改前：本校的校友对社会&lt;b&gt;作出&lt;/b&gt;了重大的&lt;b&gt;贡献&lt;/b&gt;。" />
+                  <outline text="改后：本校的校友对社会&lt;b&gt;贡献&lt;/b&gt;很大。" />
+                </outline>
+                <outline text="避免形容词的名词化，避免「度」">
+                  <outline text="改前：这本书具有很高的知名度" />
+                  <outline text="改后：这本书很有名" />
+                </outline>
+                <outline text="剔除表意弱的形容词">
+                  <outline text="改前：对自己的前端技术水平十分没有信心" />
+                  <outline text="改后：对前端技术很没信心" />
+                </outline>
+                <outline text="禁用「之一」">
+                  <outline text="改前：红楼梦是中国文学的名著之一。" />
+                  <outline text="改后：红楼梦是中国文学的名著。" />
+                </outline>
+                <outline text="慎用代词：使用者、消费者，多用「你」「我」">
+                  <outline text="使用者必须严格遵守操作指南。" />
+                  <outline text="你必须严格遵守操作指南。" />
+                </outline>
+                <outline text="去掉：的，得，地">
+                  <outline text="改前：好的作家能用出其不意的方式连接概念，给人耳目一新的感觉" />
+                  <outline text="改后：好作家能出其不意地连接概念，让人耳目一新" />
+                </outline>
+                <outline text="去掉表意很弱的修饰副词：很，非常，十分，太">
+                  <outline text="改前：杰克是个非常诚实的人。" />
+                  <outline text="改后：杰克是个诚实的人。" />
+                </outline>
+                <outline text="避免介词滥用，去掉关于、由于、有关、作为、通过">
+                  <outline text="改前：打小总躲着自我介绍，关于「我」，能说些什么呢？" />
+                  <outline text="改后：打小总躲着自我介绍，「我」是个怎样的人呢？" />
+                </outline>
+                <outline text="谨慎使用元话语：因为，所以，或许，其实，那就是">
+                  <outline text="改前：并不能很好的给大家提供价值，其实也是由于我个人能力不足" />
+                  <outline text="改后：不能给大家提供有价值的内容，是我能力不足。" />
+                </outline>
+              </outline>
+              <outline text="句法" />
+              <outline text="修辞" />
+              <outline text="篇章" />
+            </outline>
+            <outline text="高级">
+              <outline text="认知" />
+              <outline text="隐喻" />
+              <outline text="文采" />
+              <outline text="故事" />
+            </outline>
+          </outline>
+        </outline>
+        <outline text="提问清单">
+          <outline text="行业">
+            <outline text="一个行业是否存在内容聚合信息流（Content Stream）：类似于：营销/增长黑客领域的https://zest.is/，搜索关键词：" />
+          </outline>
+        </outline>
+        <outline text="购物清单" />
+      </outline>
+    </outline>
+    <outline text="项目">
+      <outline text="GrowthHacker">
+        <outline text="如何增长？">
+          <outline text="过去怎么增长？">
+            <outline text="关键人物有哪些？">
+              <outline text="无体系发展">
+                <outline text="2010年的酒局(https://hitenism.com/growth-hacking/)">
+                  <outline text="sean Ellis(dropbox营销顾问)">
+                    <outline text="find a growth hacker for your startup">
+                      <outline text="坏(有丰富的资源和经验，但增长倒退)">
+                        <outline text="烧钱的战略，以人海战术去尝试各种渠道，凭借经验拍脑袋做决策。" />
+                      </outline>
+                      <outline text="好">
+                        <outline text="1.所有注意力都集中在核心业务增长上，而不是“品 牌形象”之类的虚无概念" />
+                        <outline text="2.每天观察和分析指标，用数据说话，而不是拍脑 袋" />
+                        <outline text="3.具备很强的用户思维和产品思维" />
+                        <outline text="4.跨职能的多面手，掌握多种技能，只要跟增长有 关的工作，自己都能顶上" />
+                      </outline>
+                    </outline>
+                  </outline>
+                  <outline text="patrick Vlaskovits(tech star创始人)" />
+                  <outline text="hiten shah" />
+                </outline>
+                <outline text="2012 Andrew  chen(https://andrewchen.co/how-to-be-a-growth-hacker-an-airbnbcraigslist-case-study/)">
+                  <outline text="增长黑客的义是">
+                    <outline text="一半营销人，一半程序员 " />
+                  </outline>
+                  <outline text="核心解决问题：如何获取用户”">
+                    <outline text="一半营销人，一半程序员。用A/B测试、着陆 页优化、邮件营销、病毒营销等技术手段，" />
+                  </outline>
+                  <outline text="优化：">
+                    <outline text="另一方面，能够运用SQL\EXCEL对数 据进行定性定量的分析，并指导优化传统渠道的营销" />
+                  </outline>
+                  <outline text="核心效率值：不花钱增长用户 ">
+                    <outline text="小技巧、黑科技 " />
+                    <outline text="利用病毒营销的手段 - 比如dropbox" />
+                    <outline text="回到首" />
+                    <outline text="薅其它平台的流量 - 比如airbnb" />
+                    <outline text="利用各种规则的漏洞，给自己导流-比如各种黑帽 SEO" />
+                    <outline text="抓住用户心理上的弱点，诱导他们的行为-比如Li nkedin" />
+                  </outline>
+                  <outline text="早期的评价">
+                    <outline text="早期的增长黑客其实是比较原始的，过于注重技巧层面的东西，而整体框架和方法论并不清晰，了 解并实践这个理论的人又十分有限。" />
+                  </outline>
+                  <outline text="早期的弱点">
+                    <outline text="往往忽视了长 期、可持续的增长，反而迫切寻求爆发性的效果。所 以，许多打着”增长黑客“旗号的公司往往非常短命 " />
+                  </outline>
+                </outline>
+              </outline>
+              <outline text="有体系发展（长期、可持续、可复用）用户体验">
+                <outline text="一般人的认知">
+                  <outline text="坏(忽视）">
+                    <outline text="为什么会忽视？">
+                      <outline text="市场上急功近利的心态很重，过于注重微信裂变等“套路”。大家还是把目光放在获客这一端，忽视了对产品的打磨和用户留存 " />
+                    </outline>
+                    <outline text="为什么过分注重套路不对？">
+                      <outline text="因为当大 家在观察各种成功案例时，看到的往往是浮在表面的东 西 - 即各种套路，却忽视了这背后的支撑体系。举个例 子，大家都觉得裂变能涨粉对吧?一张海报加一个几百 块的软件，非常简单?但我们用实际经验告诉各位，如 果没有大量人力、启动资源、话术/海报测试，裂变来的 用户几乎都是负资产!原因很简单，后续运营跟不上， 实际内容与用户期望不符 - 产品口碑直线下降 " />
+                    </outline>
+                    <outline text="对技能和认知的要求偏高(还包括了对英语的要求)，导致绝大部分人无法正 确理解增长黑客究竟是什么。 " />
+                    <outline text="什么是核心增长方法论？">
+                      <outline text="处于高速发展时期的独角兽，是不可能把自己的核心增长方法论拿出来讨论的，大家也无从知晓背后真正的秘密。所以，下面这张冰山图可以清晰的体现出来:人们对增长黑客的认知还停留在表面。" />
+                    </outline>
+                  </outline>
+                  <outline text="好认知（冰山下的96%）">
+                    <outline text="例子：头条、腾讯等公司掌握了成熟的体系和方法论，却属于高度保密的情况 " />
+                    <outline text="模型：AARRR漏斗">
+                      <outline text="来源：AARRR漏斗早在2007年就由硅谷创业者Dave M cclure提出。它最早是用来指导创业公司构建发展战略 的，本身跟增长黑客没关系 " />
+                      <outline text="概念：它以客户的生命周期为核心，将关键步骤拆分成了获客、激活、留存、变现、传播五个步骤。所谓漏斗，意思就是这几个步骤是线性递进的，无法跳跃式发展。而创业公司按照这个模型发展的核心所在，就是每个步骤之间的转化率和新用户获取的效率" />
+                      <outline text="书本：the definitive guide to growth hacking">
+                        <outline text="一线公司为什么不愿意分享？">
+                          <outline text="各种独角兽的增长案例纷纷出炉，各大公司的增长负责人也频频登台演讲，但真正核心的东西，他们一个字也不会告诉别人" />
+                        </outline>
+                        <outline text="小公司为什么愿意分享秘密？">
+                          <outline text="许多小型创业公司，却非常乐于把自己增长方法论事无 巨细的阐述出来，诚意满满。这属于典型的content marketing - 不仅能够吸纳人才，还能获取大佬的关注，抢占 增长黑客新时代的制高点 " />
+                        </outline>
+                      </outline>
+                    </outline>
+                    <outline text="流程：真正用数据和技术驱动增长 ">
+                      <outline text="肖恩(https://growthhackers.com/)做的最重要的事，就是大力倡导“增长流程”的应用 - 能够不停产生新点子，不断对产品进行测试 和优化，真正用数据和技术驱动增长。这便是冰山下的 第二个重要元素 " />
+                      <outline text="快速学习例子：facebook、Uber、Airbnb ">
+                        <outline text="是因为有一群天才能够想出各种增长的创 意，让公司不断壮大。然而事实正好相反，即使是扎克 伯格，也不能预见到下一步该做什么，这些公司都曾经 差一点死掉。增长，其实没有万用的策略 。" />
+                      </outline>
+                    </outline>
+                    <outline text="北极星指标+执行">
+                      <outline text="什么是北极星指标？（长期收益）">
+                        <outline text="在增长黑客发展过程中，人们意识到一个问题:大家都 在说“增长”，那么一家公司到底该增长啥? 如果用“营 收”、“销量”来概括，那实在是有点笼统，而是是相对滞 后的指标。因此，北极星指标的诞生，就是为了指导公 司把某个阶段的增长目标量化，便于监测和优化 " />
+                      </outline>
+                      <outline text="Facbook例子">
+                        <outline text="一个经典的案例就是facebook击败当年的社交霸主mysp ace，一跃成为老大。当时，myspace的“北极星指标”是 总注册用户数，而facebook却是月活跃用户数。很明 显，myspace的指标不太正确，是典型的虚荣指标 - 这 其中包含了大量僵尸用户、非活跃用户，不能正确反映 产品价值，只是在投资人那里好看。而facebook的指 标，却实实在在反映了一个社交产品的网络效应 " />
+                      </outline>
+                      <outline text="执行">
+                        <outline text="0编程">
+                          <outline text="重复发明轮子毫无意义，为何不用别人造好的轮子呢" />
+                        </outline>
+                      </outline>
+                    </outline>
+                  </outline>
+                </outline>
+              </outline>
+              <outline text="健康发展">
+                <outline text="边界规定">
+                  <outline text="在一个项目发展的最初阶段，是完全不需要增 长黑客这一岗位介入的!整个团队唯一的注意力应该集 中在寻找PMF上，而不是大规模获客之类的 " />
+                </outline>
+              </outline>
+            </outline>
+            <outline text="用什么增长架构？" />
+            <outline text="过去增长系统有哪些？" />
+          </outline>
+          <outline text="现在怎么增长（增长工程学）" />
+        </outline>
+      </outline>
+      <outline text="《聪明的学习者：应用认知科学构建你的学习系统》">
+        <outline text="大纲20190112">
+          <outline text="自序：北冥有鱼，江海之上" />
+          <outline text="part01  人、知识与情境" />
+          <outline text="part02  好系统，坏系统" />
+          <outline text="part03  全局认识：学习系统的起点">
+            <outline text="3.1 学习系统与全局认识">
+              <outline text="3.1.1 钱钟书的故事" _note=" 以及：其他智者的全局认识案例" />
+              <outline text="3.1.2 高复杂度" />
+              <outline text="3.1.3 高成本" />
+            </outline>
+            <outline text="3.2 全局认识是什么；为什么要全局认识；">
+              <outline text="3.2.1 学习病人" />
+              <outline text="3.2.2 全局认识来治病（全局认识的定义）" />
+              <outline text="3.2.3 全局认识的相关概念" />
+            </outline>
+            <outline text="3.3 如何构建全局认识">
+              <outline text="3.3.1 全局认识N步走 （总）" />
+              <outline text="3.3.2 案例说明1：学术的案例" _note="可用网络心理学案例" />
+              <outline text="3.3.3 商业的案例" />
+              <outline text="3.3.4 职业的案例" />
+            </outline>
+            <outline text="3.4 最小全局认识">
+              <outline text="3.4.1  撬动全局认识的杠杆（总-分的结构）" />
+              <outline text="3.4.2 高保真 " />
+              <outline text="3.4.3 协议" />
+              <outline text="3.4.4 实践社群共识" />
+            </outline>
+          </outline>
+          <outline text="part04  分层结构：学习系统的尺度">
+            <outline text="4.1 西蒙的故事（性感标题：穿越歧路花园者）">
+              <outline text="4.1.1 故事引入（西蒙如何做分层结构来学习的？）" />
+              <outline text="4.1.2 低成本（举例说明，以及它是如何降低学习成本的）" />
+              <outline text="4.1.3 高复杂度（它是高复杂度的：一般人无法参出它的层级）" />
+            </outline>
+            <outline text="4.2 知识创造的分层（从消费者到创造者）">
+              <outline text="4.2.1 分层系统的详细介绍" />
+              <outline text="4.2.2 认知科学原理（为什么需要分层：有限理性、可分解/可理解）" />
+              <outline text="4.2.3 各种拆解方法（说明输出层次的拆解更重要，引出创造系统）">
+                <outline text="按照人的角度：" />
+                <outline text="按照知识的角度：西蒙的学科拆解" />
+                <outline text="按照应用情景的角度：德雷福斯模型" />
+              </outline>
+            </outline>
+            <outline text="4.3 卡片大法（创造者视角拆解，可以分为卡片、文件、项目层级）">
+              <outline text="4.3.1 卡片是什么？为什么要写卡片（好处）？" />
+              <outline text="4.3.2 卡片背后的原理是什么？" />
+              <outline text="4.3.3 卡片写什么？应该注意什么？" />
+            </outline>
+            <outline text="4.4 文件与项目">
+              <outline text="4.4.1 如何从卡片拼接为文件?" />
+              <outline text="4.4.2 如何管理文件？" />
+              <outline text="4.4.3 如何驱动项目协同？" />
+            </outline>
+          </outline>
+          <outline text="part05  时间周期：学习系统的演化">
+            <outline text="5.1 德鲁克的自修" _note="参考《纳博科夫的卡片》文风，解决时间单位和系统的关系">
+              <outline text="5.1.1 德鲁克的故事">
+                <outline text="知识工作者必须进行自我管理">
+                  <outline text="card1：什么是知识工作者" />
+                  <outline text="card2：为什么知识工作者必须进行自我管理" />
+                </outline>
+                <outline text="成为卓有成效的知识工作者">
+                  <outline text="card3：有限的时间，有限的精力">
+                    <outline text="掌握自己的时间">
+                      <outline text="读时间的去处进行记录" />
+                      <outline text="对时间进行管理" />
+                      <outline text="对时间进行整合" />
+                    </outline>
+                  </outline>
+                  <outline text="card4：如何让知识工作卓有成效" />
+                </outline>
+              </outline>
+              <outline text="5.1.2 进行时间周期的设计能降低学习系统的复杂度">
+                <outline text="大脑是个认知吝啬鬼" />
+                <outline text="进行时间周期设计降低不确定性" />
+              </outline>
+              <outline text="5.1.3 进行时间周期的设计是低成本">
+                <outline text="每个周期学习矛盾不一样，进行周期划分，降低学习成本" />
+                <outline text="时间周期尺度嵌套，相互影响，有滚雪球式复利效果" />
+              </outline>
+            </outline>
+            <outline text="5.2 种种时间单位【重难点】" _note="需要查看相关论文，参考《三生有幸》《人类的演化》，将认知科学、心理学、社会学研究整合一起">
+              <outline text="5.2.1 学习之时间周期是什么？（参考埃里克森发展心理学理论提出时间周期）" />
+              <outline text="5.2.2种种时间单位（不同时间周期背后的科学原理、解决的核心问题不一样）">
+                <outline text="种种时间单位（以时间刻度，整合对应不同时间单位的核心矛盾与学习策略）">
+                  <outline text="日">
+                    <outline text="心流" />
+                    <outline text="注意力" />
+                  </outline>
+                  <outline text="周">
+                    <outline text="自我决定论（兴趣驱动）" />
+                    <outline text="周三/周日效应" />
+                  </outline>
+                  <outline text="月/季度">
+                    <outline text="习惯" />
+                    <outline text="执行意图" />
+                  </outline>
+                  <outline text="年/n年">
+                    <outline text="跨时决策" />
+                    <outline text="职业生涯" />
+                  </outline>
+                </outline>
+                <outline text="不同时间单位的核心矛盾" />
+                <outline text="不同时间单位的学习策略" />
+              </outline>
+            </outline>
+            <outline text="5.3 不同时间单位的冲突">
+              <outline text="5.3.1 目标与时间单位不匹配..." />
+              <outline text="5.3.2 大时间单位的小行动" />
+            </outline>
+            <outline text="5.4 如何设计你的学习计划" _note="参考《给自己的教育》">
+              <outline text="职场新鲜人">
+                <outline text="进行你的职业生涯规划，清晰定位" />
+                <outline text="职场新鲜人的主要矛盾" />
+                <outline text="制定你的学习计划" />
+              </outline>
+              <outline text="弯道超车者">
+                <outline text="前世与今生（了解过去，清晰你的下半生）" />
+                <outline text="设计你的学科表" />
+                <outline text="课程表设计注意事项" />
+              </outline>
+            </outline>
+          </outline>
+          <outline text="part06  认知学徒：学习系统的连接">
+            <outline text="不言之教，无形而心诚" />
+            <outline text="6.1  五百年前的实践社群">
+              <outline text="6.1.1 认知学徒的回归">
+                <outline text="讲学狂人王阳明" />
+                <outline text="阳明学士人社群" />
+                <outline text="从王阳明到。。。。（现代案例）" />
+              </outline>
+              <outline text="6.1.2 智者的认知学徒如何降低学习复杂度，举1-3个例子" />
+              <outline text="6.1.3 智者的认知学徒的高成本，举1-3个例子" />
+            </outline>
+            <outline text="6.2  成为认知学徒">
+              <outline text="6.2.1 认知学徒是什么" />
+              <outline text="6.2.2 怎样成为认知学徒">
+                <outline text="who ：优秀的导师往往具备什么特点" />
+                <outline text="where ：寻找导师路径">
+                  <outline text="1、自己所在的能够接触到的，通过现实（案例）" />
+                  <outline text="2、网上能接触到的" />
+                  <outline text="3、从书中与历史中寻找导师---关键词法" />
+                </outline>
+                <outline text="when：导师的年龄；自己的年龄">
+                  <outline text="导师年龄比自己大4-8岁，自己的年龄没有限制" />
+                </outline>
+              </outline>
+              <outline text="6.2.3 认知复杂度（猎人行话：隐知识）">
+                <outline text="很多领域存在大量内隐知识，降低内隐知识的。。。。" />
+              </outline>
+            </outline>
+            <outline text="6.3  在实践社群中成长">
+              <outline text="6.3.1 如何聪明地模仿（以外显的知识为主）" />
+              <outline text="6.3.2 不仅学习外显知识，更要学习内隐知识">
+                <outline text="内隐知识：尤其是涉及价值观、行为模式、时间分配策略等这些看似与学习无关的事情" />
+              </outline>
+              <outline text="6.3.3 保持开放，珍视导师的矛盾---认知闭合">
+                <outline text="谈矛盾的言论、心流作者的创造力的书，绝非天赋、信息分析课提及的认知分化（二期职业）高创造力的表现）" />
+              </outline>
+            </outline>
+            <outline text="6.4 组建你的实践社群">
+              <outline text="6.4.1 故事的重要性" />
+              <outline text="6.4.2 社群故事开发法 （构建学习部落五步走或几步走）" />
+              <outline text="6.4.3 组建社群的七个原则" />
+              <outline text="6.4.4 实践社群案例（参考阳老师原稿 meta5)">
+                <outline text="案例1：Adele的故事" />
+                <outline text="案例2：github" />
+                <outline text="案例3：开放科学" />
+              </outline>
+            </outline>
+            <outline text="核心参考书籍：">
+              <outline text="实践社团 (豆瓣)" />
+              <outline text="情景学习 (豆瓣)" />
+              <outline text="五百年前的学习社群（演讲稿）" />
+              <outline text="其他阳老师发的资料" />
+            </outline>
+          </outline>
+          <outline text="part07  优化你的学习系统">
+            <outline text="7.1 如何诊断你的学习系统" />
+            <outline text="7.2 全局优化：针对全局认识的优化。" />
+            <outline text="7.3 分层优化：针对分层结构的优化。" />
+            <outline text="7.4 时间优化：针对时间周期的优化。" />
+            <outline text="7.5 社群优化：针对认知学徒的优化。" />
+          </outline>
+          <outline text="跋：忽然而已" />
+        </outline>
+        <outline text="大纲20190110">
+          <outline text="ch01：成为聪明的学习者——构建你的学习系统">
+            <outline text="1.1 学习中碰到的各种矛盾" />
+            <outline text="1.2 如何解决矛盾 —— 对于学习方法的关注上升到学习系统的关注">
+              <outline text="- 学习系统的特点：从碎片学习到全局认识；从。。。到。。。；从。。。到" />
+              <outline text="广告宣传语：用学习系统打败浅薄学习，用学习系统打败碎片学习，用学习系统打败零散学习" />
+            </outline>
+            <outline text="1.3 智者的学习系统 —— 如何达到令人惊奇的系统，例子：芒格、毛泽东、德鲁克" />
+            <outline text="1.4 我们该如何构建学习系统？—— 四步走的策略，像雪球一样滚起来" />
+          </outline>
+          <outline text="ch02：学习系统的要素">
+            <outline text="（人、知识与情景的三分）" />
+          </outline>
+          <outline text="ch03：全局认识：学习系统的起点">
+            <outline text="（顺着第二章，人、知识与情景的三分法，强调，全局认识，将三者形成一个认知雪球）" />
+            <outline text="稿件素材来源： —— 2018.8.4深圳沙龙演讲；2018.8.9速记稿；" />
+            <outline text="3.1 为什么需要全局认识">
+              <outline text="以前学习方法碰到的问题，使用全局认识可以规避缺点" />
+              <outline text="灵魂选择自己的伴侣" />
+            </outline>
+            <outline text="3.2 如何构建全局认识，举例子，提出一套方法论">
+              <outline text="网络心理学 —— 学术" />
+              <outline text="儿童教育 —— 商业（未来脑计划构建10w篇论文" />
+              <outline text="请教小朋友的例子 —— 职业" />
+            </outline>
+            <outline text="3.3 全局认识背后的认知科学原理">
+              <outline text="学习如果是一个记忆系统，应该在任何时候 提取速度和准确度都很好">
+                <outline text="传统为什么不够高效？为什么当时有效，后来忘了？" />
+                <outline text="全局认识如何解决？">
+                  <outline text="树形结构 —— 大脑爱模式" />
+                  <outline text="必要难度：交错学习；" />
+                  <outline text="整体&amp;gt;分散；格式塔" />
+                </outline>
+              </outline>
+            </outline>
+            <outline text="3.4 全局认知最反常识的 —— 最小的全局认识">
+              <outline text="生活中的全局认识 5w1h 。。。。等5个， 节省认知负担" />
+              <outline text="三种最小全局认识" />
+              <outline text="秘密武器">
+                <outline text="时间空间变量 —— 查一个公司信息的例子" />
+                <outline text="创新算法的基本场 —— 各种场的基本参数" />
+              </outline>
+              <outline text="认知的滚雪球隐喻（诠释最小的全局认识）" />
+            </outline>
+          </outline>
+          <outline text="ch04：分层结构：学习系统的尺度">
+            <outline text="素材来源： —— 8.11内部演讲；8.17速记稿；" />
+            <outline text="4.1 知识的螺旋：学习=创造；输出&amp;gt;输入；分层结构的必要性&amp;重要性；" />
+            <outline text="4.2 卡片系统：通过积累学习" />
+            <outline text="4.3 文件系统：通过分享学习" />
+            <outline text="4.4 项目系统：通过协作学习" />
+          </outline>
+          <outline text="ch05：时间周期：学习系统的演化">
+            <outline text="素材： —— 8.25演讲；8.26内部对稿；">
+              <outline text="备注：受三生有幸、心流、控制论、人生周期论的影响" />
+            </outline>
+            <outline text="5.1 聪明的学习者善于根据不同时间周期采取不同学习策略" />
+            <outline text="5.2 大时间周期" />
+            <outline text="5.3 中时间周期" />
+            <outline text="5.4 小时间周期" />
+          </outline>
+          <outline text="ch06：认知学徒：学习系统的连接">
+            <outline text="素材来源—— 8.18内部演讲；8.24速记稿" />
+            <outline text="6.1 学习系统与学习系统链接的必要性：内隐知识、记忆的交易效应、认知复杂度" />
+            <outline text="6.2 如何与水平高的人高效链接？认知学徒！（认知学徒是什么？如何应用？线上线下的区别？如何向智者学习？）" />
+            <outline text="6.3 如何与水平差不多的人链接？学习部落！" />
+            <outline text="6.4 如何成为教师？如何传承？行动教练！">
+              <outline text="多元身份、传承、万花筒策略、教师的行动科学" />
+              <outline text="已经拥有一个学习系统，通过人人交互，促进别人发生改变，这时候容易犯系统性错。如：第一序改变、防御性问题，更高效的促进别人改变、更好的个人成长" />
+            </outline>
+          </outline>
+          <outline text="ch07：优化你的学习系统">
+            <outline text="（学习系统的诊断、优化，呼应第一章）" />
+          </outline>
+        </outline>
+        <outline text="讨论20190110  @企业微信  @电话会议  @老阳写作群">
+          <outline text="## 我的今日Aciton" />
+          <outline text="todo1：下午6点之前，搞定带二级目录的大纲；" />
+          <outline text="todo2：晚上10点之前，将手头已有的资料都汇总到各二级目录下面，尝试拼凑出更详细的内容" />
+          <outline text="## 卓璇的今日Action" />
+          <outline text="todo1：将阳老师的公号文章的 md 格式从开智学堂公号找到，发给阳老师，以帮助各位检索" />
+          <outline text="todo2：创建一个tpad项目管理库，叫做：《聪明的学习者》，列出重要的里程碑，以跟踪此书进展。各位2周写完4篇3000字文的初稿。阳老师最迟2月30号整理出本书的定稿交给北燕；那么，初稿什么时候整理出来？" />
+          <outline text="## 其他各位的Action" />
+          <outline text="todo1：尝试在自己认领的章节基础上，整理出小节标题、知识点清单、卡片清单；提交形态：workflowxy。" />
+          <outline text="" />
+          <outline text="死线：2019年3月1号最迟交稿给出版社：《聪明的学习者》；2019年7月1号最迟出版（3月；4月；5月；6月）" />
+          <outline text="意味着咱们内部的第一稿速度要快很多，然后才有力气完善注释、参考文献、打磨文字、修改错别字、增补序言等流程。" />
+        </outline>
+        <outline text="其他版大纲">
+          <outline text="https://workflowy.com/s/HbRH.gJSrt3PSQe" />
+        </outline>
+      </outline>
+      <outline text="《人生模式：识别并优化你的核心认知》">
+        <outline text="优化你的人生模式">
+          <outline text="什么是人生模式？">
+            <outline text="反复出显的结构" />
+          </outline>
+          <outline text="人生中的各种矛盾">
+            <outline text="守旧（人类美德）VS创新（自己领域的创新）" />
+            <outline text="创造价值VS人性之恶" />
+            <outline text="个人VS社会" />
+            <outline text="大脑偏见VS真知灼见" />
+            <outline text="渺小VS伟大" />
+          </outline>
+          <outline text="模式的元反空">
+            <outline text="简单：落后的知识结构、错误的模式" />
+            <outline text="复杂：明白自己的知识模式也知道自己的局限" />
+            <outline text="简单：" />
+          </outline>
+          <outline text="优化你的人生模式" />
+          <outline text="" />
+        </outline>
+        <outline text="核心模式" />
+        <outline text="行动模式" />
+        <outline text="读写模式" />
+        <outline text="人际模式" />
+      </outline>
+      <outline text="开智AA002卡片规范">
+        <outline text="卡片">
+          <outline text="keynote页面即卡片">
+            <outline text="小而大" />
+            <outline text="小而美" />
+            <outline text="小是非" />
+          </outline>
+          <outline text="卡片要素">
+            <outline text="组块" />
+            <outline text="层级" />
+          </outline>
+          <outline text="卡片主题">
+            <outline text="学术脉络卡" />
+          </outline>
+        </outline>
+        <outline text="卡片风格">
+          <outline text="固定了什么？（自己总结，不对外输出）">
+            <outline text="页面">
+              <outline text="标题" />
+              <outline text="字体" />
+              <outline text="配色">
+                <outline text="https://www.uisdc.com/interface-vision-design-5-elements" />
+              </outline>
+              <outline text="符号" />
+              <outline text="图片" />
+              <outline text="数据可视化" />
+              <outline text="版式">
+                <outline text="一致性" />
+                <outline text="参考线" />
+                <outline text="对齐" />
+                <outline text="间距" />
+              </outline>
+            </outline>
+            <outline text="页间">
+              <outline text="动效">
+                <outline text="推移">
+                  <outline text="效果；从右往左  " />
+                  <outline text="时间；1.25s" />
+                </outline>
+                <outline text="翻页">
+                  <outline text="效果；从上往下 " />
+                  <outline text=" 时间；1.25s" />
+                </outline>
+              </outline>
+            </outline>
+          </outline>
+          <outline text="参考资料">
+            <outline text="许岑keynote">
+              <outline text="keynote大纲">
+                <outline text="审美" />
+                <outline text="界面" />
+                <outline text="参考线和对齐" />
+                <outline text="次序" />
+                <outline text="纵深关系" />
+                <outline text="一致性" />
+                <outline text="字体" />
+                <outline text="背景" />
+                <outline text="更美观的文字" />
+                <outline text="文字符号">
+                  <outline text="把一个一个点标识的更加清楚" />
+                </outline>
+                <outline text="取色" />
+                <outline text="图片" />
+                <outline text="图片的裁剪和修饰" />
+                <outline text="更多">
+                  <outline text="声画同步" />
+                  <outline text="视频" />
+                  <outline text="图表" />
+                  <outline text="形状的更多用途" />
+                </outline>
+                <outline text="动作效果" />
+                <outline text="动作顺序与成组" />
+                <outline text="神奇移动" />
+              </outline>
+            </outline>
+            <outline text="PPT设计之道">
+              <outline text="基本原则">
+                <outline text="优先级原则" />
+                <outline text="单纯和齐一" />
+                <outline text="对比和调和" />
+                <outline text="对称和均衡" />
+                <outline text="和谐与统一" />
+                <outline text="节奏和韵律" />
+                <outline text="尺寸和比例" />
+              </outline>
+              <outline text="页面排版布局">
+                <outline text="版心与页见距" />
+                <outline text="构图" />
+                <outline text="图层逆向拆解对象">
+                  <outline text="" />
+                </outline>
+                <outline text="幻灯的点线面" />
+                <outline text="对齐" />
+                <outline text="网格" />
+                <outline text="空间" />
+                <outline text="复杂案例" />
+              </outline>
+              <outline text="色彩">
+                <outline text="幻灯片的背景色">
+                  <outline text="环境的可识别性">
+                    <outline text="小空间，明亮-亮色背景" />
+                    <outline text="大空间，暗色调" />
+                  </outline>
+                </outline>
+                <outline text="幻灯片的颜色模式">
+                  <outline text="RGB" />
+                  <outline text="HSB" />
+                </outline>
+                <outline text="色环：">
+                  <outline text="12色环VS24色环" />
+                  <outline text="冷暖色">
+                    <outline text="暖色：红橙黄" />
+                    <outline text="冷色：青蓝" />
+                    <outline text="中色：紫、绿、黑、白、灰" />
+                  </outline>
+                  <outline text="互补色（色环相差180度）">
+                    <outline text="" />
+                  </outline>
+                  <outline text="对比色（色环相差120-180度）" />
+                  <outline text="邻近色（色环相差90度）" />
+                </outline>
+                <outline text="色彩的对比">
+                  <outline text="色相" />
+                  <outline text="纯度" />
+                  <outline text="明度（明暗差别，差别越大，冲击力越强）">
+                    <outline text="" />
+                  </outline>
+                </outline>
+                <outline text="幻灯片的三类色">
+                  <outline text="主色" />
+                  <outline text="副色" />
+                  <outline text="点缀色" />
+                </outline>
+              </outline>
+              <outline text="文本框">
+                <outline text="惜字如金（少就是多）" />
+                <outline text="认识字体">
+                  <outline text="有衬线字体VS无衬线字体" />
+                </outline>
+                <outline text="字号、字符间距、行距和栏宽">
+                  <outline text="原则">
+                    <outline text="保证易读性" />
+                    <outline text="保证亲密性" />
+                    <outline text="保证层级性" />
+                  </outline>
+                  <outline text="幻灯片大小尺寸VS导出图片大小" />
+                  <outline text="字号：镑VS厘米VS英寸" />
+                  <outline text="图片：图片PPI像素点" />
+                  <outline text="栏宽">
+                    <outline text="汉字：20个字为宜" />
+                  </outline>
+                  <outline text="文本的对比" />
+                </outline>
+              </outline>
+              <outline text="形状和图表">
+                <outline text="插入和编辑几何形状" />
+                <outline text="图表" />
+                <outline text="图表样式" />
+                <outline text="图标" />
+              </outline>
+              <outline text="图片">
+                <outline text="格式和质量" />
+                <outline text="选取和使用原则" />
+                <outline text="基于网格系统处理图文" />
+                <outline text="图片的一致性" />
+                <outline text="如何搜索图片" />
+              </outline>
+              <outline text="其他建议">
+                <outline text="避免花哨" />
+                <outline text="避免简单问题复杂化" />
+                <outline text="常见的可视化" />
+                <outline text="再一次认识幻灯" />
+                <outline text="形成自己的习惯" />
+              </outline>
+            </outline>
+            <outline text="、、=slideDesign品控规范">
+              <outline text="http://mp.weixin.qq.com/mp/homepage?__biz=MzI1Njk1NjMxMg==&amp;hid=5&amp;sn=27f6b147c7d876c57a3d5eb045a2f18d&amp;scene=18&amp;devicetype=android-27&amp;version=27000481&amp;lang=zh_CN&amp;nettype=WIFI&amp;ascene=59&amp;session_us=gh_bcc8f469630a&amp;pass_ticket=%2BXqtXo%2FeZJCfNteFcwjEKoNEnBDE6lUyCZQSq57N504%3D&amp;wx_header=1&amp;scene=1" />
+            </outline>
+            <outline text="bizand">
+              <outline text="SlideSign品控规范" />
+            </outline>
+            <outline text="我懂个P" />
+            <outline text="奥美" />
+            <outline text="duarte" />
+            <outline text="inscale" />
+            <outline text="阿斯达" />
+            <outline text="">
+              <outline text="http://pc-shop.xiaoe-tech.com/appe0MEs6qX8480/columnist_detail?id=p_5c8225522413e_a8yQaJcv" />
+              <outline text="https://www.zcool.com.cn/u/15934639/collections#tab_anchor" />
+              <outline text="http://www.ableslide.com.cn/" />
+            </outline>
+          </outline>
+        </outline>
+        <outline text="卡片设计规范">
+          <outline text="前言" />
+          <outline text="AA002主题">
+            <outline text="首尾">
+              <outline text="首：开门进入" />
+              <outline text="尾：欢迎您开启信息分析之旅" />
+            </outline>
+            <outline text="案例卡">
+              <outline text="可得性案例" />
+              <outline text="基础谬误案例" />
+              <outline text="……" />
+            </outline>
+            <outline text="学术卡：">
+              <outline text="术语卡">
+                <outline text="什么是认知科学？" />
+                <outline text="什么是论证？" />
+              </outline>
+              <outline text="学科脉络卡">
+                <outline text="实验心理学发展脉络" />
+                <outline text="经济学学发展脉络" />
+                <outline text="概率论发展脉络" />
+                <outline text="统计学发展脉络" />
+              </outline>
+              <outline text="学术大牛卡：">
+                <outline text="形式逻辑代表人" />
+                <outline text="非形式逻辑代表人" />
+              </outline>
+            </outline>
+            <outline text="系统要素">
+              <outline text="分类卡：">
+                <outline text="2球：认知分析VS逻辑分析" />
+                <outline text="4象限：认知偏差分类矩阵" />
+                <outline text="……" />
+              </outline>
+              <outline text="对比卡：">
+                <outline text="形式逻辑VS非形式逻辑" />
+                <outline text="&lt;b&gt;三种逻辑观下的论证定义&lt;/b&gt;" />
+                <outline text="……" />
+              </outline>
+            </outline>
+            <outline text="推荐卡">
+              <outline text="书籍" />
+              <outline text="学术期刊" />
+              <outline text="学术组织" />
+              <outline text="最佳实践工作者" />
+            </outline>
+            <outline text="清单卡：">
+              <outline text="认知成见七宗罪" />
+              <outline text="芒格的清单" />
+              <outline text="《清晰思考的艺术》52种套路" />
+              <outline text="斯坦诺维奇的13种流体理性" />
+              <outline text="……" />
+            </outline>
+            <outline text="其他">
+              <outline text="注意事项卡">
+                <outline text="开智固定的红色人像头顶思考云+字" />
+              </outline>
+              <outline text="举一反三卡">
+                <outline text="开智固定的红色人像头顶思考云+字" />
+              </outline>
+            </outline>
+          </outline>
+          <outline text="规范">
+            <outline text="品牌元素规范" />
+            <outline text="文字规范" />
+            <outline text="配色规范" />
+            <outline text="符号规范" />
+            <outline text="版式布局规范" />
+            <outline text="参考">
+              <outline text="https://www.ui.cn/detail/356615.html" />
+            </outline>
+          </outline>
+          <outline text="流程">
+            <outline text="领取模板" />
+            <outline text="复制keynote至模板" />
+            <outline text="判断主题" />
+            <outline text="修改">
+              <outline text="识别图式层级" />
+              <outline text="分层修改" />
+              <outline text="抠图">
+                <outline text="https://www.remove.bg/" />
+              </outline>
+              <outline text="版式">
+                <outline text="网格布局">
+                  <outline text="https://www.uisdc.com/grid-system-basics" />
+                </outline>
+              </outline>
+            </outline>
+            <outline text="调整">
+              <outline text="对照~3.规范" />
+            </outline>
+            <outline text="参考">
+              <outline text="https://www.ui.cn/detail/300301.html" />
+            </outline>
+          </outline>
+          <outline text="检查清单">
+            <outline text="https://www.uisdc.com/visual-design-review" />
+          </outline>
+          <outline text="注意事项">
+            <outline text="我错在哪儿了？" />
+            <outline text="合理性">
+              <outline text="任何一个对象，问自己合理么？可复用么？" />
+              <outline text="哪些是点？" />
+              <outline text="哪些是线？" />
+              <outline text="哪些是面？" />
+              <outline text="哪些需要强调？" />
+              <outline text="不合理性">
+                <outline text="各种模板的文字云大气线条，欧美线条，不实用" />
+              </outline>
+            </outline>
+            <outline text="拖拽到keynote的图形最好是透明效果的PNG格式" />
+          </outline>
+          <outline text="复盘">
+            <outline text="https://mp.weixin.qq.com/s/TVasLEh2kqBrBxiwPvr22g" />
+            <outline text="项目总结">
+              <outline text="https://www.ui.cn/detail/323099.html" />
+              <outline text="如何基于场景设计：https://www.ui.cn/detail/167365.html" />
+            </outline>
+          </outline>
+          <outline text="感谢">
+            <outline text="设计书">
+              <outline text="写给大家看的设计书" />
+              <outline text="色彩设计的原理" />
+              <outline text="版面设计的原理" />
+              <outline text="平面设计的网格系统" />
+            </outline>
+          </outline>
+        </outline>
+      </outline>
+      <outline text="《聪明的投资者：构建你的抗风险系统》">
+        <outline text="做自己人生的首席风险官" />
+      </outline>
+      <outline text="《菜鸟增长：构建你的菜鸟上手增长系统》">
+        <outline text="1.低阶—上手（实践策略：——对数据敏感）">
+          <outline text="上手增长碰到的各种矛盾" />
+          <outline text="如何解决矛盾" />
+          <outline text="先进的增长系统" />
+          <outline text="菜鸟该如何上手增长" />
+        </outline>
+        <outline text="2.高阶——增长系统的要素（对比好增长和坏增长）——对数据体系敏感">
+          <outline text="什么是好？">
+            <outline text="核心矛盾：增长*可持续性" />
+            <outline text="正向系统：（重点）" />
+            <outline text="逆向系统：（监测）" />
+            <outline text="洼地系统：" />
+          </outline>
+        </outline>
+        <outline text="2-01" />
+        <outline text="2-02" />
+        <outline text="2-03" />
+        <outline text="2-04" />
+        <outline text="3-混合——优化你所在领域的增长系统" />
+      </outline>
+      <outline text="FSW001">
+        <outline text="开营仪式">
+          <outline text="卡片练习">
+            <outline text="热身练习：自由写作" />
+            <outline text="请在「星星」、「大海」、「沙漠」中任选一个词，开始自由写作练习。" />
+            <outline text="时间：10mins" />
+            <outline text="字数：不限" />
+            <outline text="不要思考，不要选择，不要斟酌，不要判断，不要逻辑，不要组织，脑袋里蹦出哪个词你就去抓捕哪个词，把它们全部都抓拿归案。" />
+          </outline>
+          <outline text="课程方式">
+            <outline text="快写慢改训练营和快写慢改训练营不同">
+              <outline text="认知写作是理论背后的理论建设">
+                <outline text="不要按照当初思维定势来学习" />
+              </outline>
+              <outline text="从听到写：写！写！写！">
+                <outline text="把理论知识点融入其中" />
+                <outline text="学员练习80%，剩下20%老师讲课" />
+              </outline>
+            </outline>
+            <outline text="写作为什么重要">
+              <outline text="写作更好的帮助修身养性">
+                <outline text="古代大儒普遍写作非常好，普遍喜欢读书" />
+              </outline>
+              <outline text="身体不是认知的外在，而是认知本身；" />
+              <outline text="语言不是思想的外衣，而是思想本身" />
+              <outline text="修辞不是胜虫小技" />
+              <outline text="而是发现感觉，创造新型认识，乃至人生意义。" />
+            </outline>
+            <outline text="学什么">
+              <outline text="高利益 情感指数高一点，低利益 情感指数低一点" />
+              <outline text="高规范 ">
+                <outline text="格式要求不决定内容" />
+                <outline text="写论文也可以和微信公众号原理一样" />
+              </outline>
+              <outline text="偏格式松散，高、中利益">
+                <outline text="个人随笔、读书笔记、公开评论、情书" />
+              </outline>
+            </outline>
+            <outline text="五周内容，十次左右直播">
+              <outline text="Ch1 快写慢改方法论">
+                <outline text="周二晚上">
+                  <outline text="总述" />
+                  <outline text="如何快写" />
+                </outline>
+                <outline text="周四晚上">
+                  <outline text="如何慢改" />
+                  <outline text="文本细读" />
+                </outline>
+                <outline text="周日晚上">
+                  <outline text="千字文练习" />
+                </outline>
+              </outline>
+              <outline text="Ch2 字词">
+                <outline text="实词与虚词" />
+                <outline text="字词的连接" />
+                <outline text="修饰你的字词" />
+                <outline text="特殊权重的字词" />
+              </outline>
+              <outline text="Ch3 句法">
+                <outline text="诗歌语法与散文句法" />
+                <outline text="句子的连接" />
+                <outline text="修饰你的句子" />
+                <outline text="特殊权重的句子" />
+              </outline>
+              <outline text="Ch4 篇章">
+                <outline text="篇章结构" />
+                <outline text="篇章结构的连接" />
+                <outline text="修饰你的篇章" />
+                <outline text="特殊权重的篇章" />
+              </outline>
+              <outline text="Ch5 文体应用">
+                <outline text="情书" />
+                <outline text="个人随感" />
+                <outline text="读书笔记" />
+                <outline text="公开评论" />
+              </outline>
+              <outline text="Ch6 结业项目" />
+            </outline>
+            <outline text="怎么学好">
+              <outline text="快写慢改 ">
+                <outline text="最符合大脑工作规律的写作方法" />
+              </outline>
+              <outline text="文本细读">
+                <outline text="偏文学评论的高阶模型" />
+                <outline text="中文系、英语系普遍学习的方法">
+                  <outline text="和结构阅读、抽样阅读不一样">
+                    <outline text="获取信息含量" />
+                  </outline>
+                  <outline text="文学和信息含量无关">
+                    <outline text="和大脑中的语感和组合模式有关" />
+                  </outline>
+                  <outline text="每个人会掌握多少词汇">
+                    <outline text="大多数人是5W字左右，组合是无限大" />
+                    <outline text="通过阅读历史经典的文本，慢慢降低组合的概率，形成自己的风格" />
+                    <outline text="最终形成自己关键的写作策略">
+                      <outline text="A、B、C 策略难度递增" />
+                    </outline>
+                  </outline>
+                </outline>
+              </outline>
+            </outline>
+            <outline text="谁在帮你学习">
+              <outline text="导师：阳志平 → 直播讲课，现场点评，讨论区答疑" />
+              <outline text="课程经理：雪莹统筹课程，欢迎反馈课程意见" />
+              <outline text="班主任：子午鸟教练团" />
+              <outline text="教练 → 解決日常学习困惑，点评部分作业" />
+              <outline text="课代表 →  学习表率，给你加油打气" />
+              <outline text="一休 →  解决权限、工具问题" />
+            </outline>
+            <outline text="" />
+          </outline>
+          <outline text="作业点评">
+            <outline text="朱九爷">
+              <outline text="喜欢星空，但是灯光让我看不到星星。有时候，身在其中也会看不到自己。波扎那人有个传说，他们将银河称为夜的脊柱，夜是巨兽，人们住在巨兽的身体里。是银河支撑了夜，没有银河，夜的碎片就会掉到我们脚边。">
+                <outline text="写的极其优美，在模仿索德格朗" />
+                <outline text="&amp;gt; 喜欢星空，但是灯光让我看不到星星。">
+                  <outline text="我喜欢星空，但是灯光让我看不到星星" />
+                  <outline text="违背了单一变量法则，主语不断变化" />
+                  <outline text="读起来不错，但很难快速Get到意思" />
+                  <outline text="修改：星星沉默不语，灯光时明时暗。">
+                    <outline text="容易感知到信息量，结构会更容易感知" />
+                  </outline>
+                  <outline text="银河 =&amp;gt; 夜 =&amp;gt; 人们 =&amp;gt; 碎片 =&amp;gt; 脚边">
+                    <outline text="意象鲜活，但衔接关系没有表现出来" />
+                    <outline text="尝试把每一个主题词更突出，缩短主题词" />
+                  </outline>
+                </outline>
+              </outline>
+            </outline>
+            <outline text="俞一君 Jun「沙漠」 ">
+              <outline text="想起《小王子》里的一句话，沙漠看似无边无际，但是沙漠的美就是你知道那里有一口井。这句话曾经在我少年时，最艰难的时候给我很多希望，无论是不是虚无缥缈的希望，总是让人不至于流落在黑暗的恐惧里。如今，我也很想有一天，去真正的沙漠看一看，是不是那里真的有一口井。" />
+              <outline text="《小王子》里的一句话， 沙漠无边无际， 沙漠的美你知道那里有一口井。 曾经在我少年时， 给我很多希望， 是不是虚无缥缈的希望， 让人不至于流落在黑暗的恐惧里。 我也很想有一天，去真正的沙漠看一看，是不是那里真的有一口井。">
+                <outline text="逻辑不通顺，为写作而写作" />
+                <outline text="很难跳转过去，把相对勉强的逻辑关系，宁愿删掉" />
+              </outline>
+              <outline text="《小王子》里的一句话， 沙漠无边无际， 沙漠的美你知道那里有一口井。 我也很想有一天，去真正的沙漠看一看，是不是那里真的有一口井。">
+                <outline text="把个人感叹删掉，反而更有说服力" />
+                <outline text="个人的感叹离读者很遥远，作者不会给个人意象，而是用自然意象" />
+                <outline text="提问：可是中间这一句删掉之后，原本要表达的主旨也变了。所以要为了逻辑和简洁，而改变文章的本意吗？">
+                  <outline text="纯粹从文本练习角度说，比较容易说服，更有说服力的写法不是下结论，而是给更多具象" />
+                </outline>
+                <outline text="参考 讲义 开篇《阳老师至大家一封信》" />
+              </outline>
+              <outline text="星星陆续醒了，还没有很多人注意到，自顾自点亮着。不必让你看见，只是自顾自醒了。你知道吗，没有什么，比星星更自由了。躺在天空，如同躺在大海，没有方向，没有地标，视线之内没有障碍，一览无余。你知道那种自由吗。它甚至不是快乐，不屑于快乐，而是更辽远，更空旷的所在。">
+                <outline text="词汇量不大" />
+                <outline text="「没有」太多，使的表达略显单调，要掌握更多表达连接词汇的方法" />
+                <outline text="提问：什么时候具象，什么时候抽象">
+                  <outline text="今天不展开讲" />
+                </outline>
+              </outline>
+            </outline>
+          </outline>
+        </outline>
+      </outline>
+      <outline text="AA001">
+        <outline text="欢迎开启论证分析之旅" />
+        <outline text="开智学堂课程系统使用指南" />
+        <outline text="Ch2观点" />
+        <outline text="论证分析（逻辑学为什么这么难？）">
+          <outline text="逻辑是通识四课最难教的，与信息分析、行为分析不一样，他缺乏实时反馈，过去抽象" />
+        </outline>
+      </outline>
+      <outline text="AA004">
+        <outline text="Ch1论证分析导论">
+          <outline text="" />
+          <outline text="心智程序概论：什么是心智程序？如何评判心智程序的好坏？" />
+          <outline text="实验思维：从实验心理学中汲取智慧，用科学俩了解心理和认知过程" />
+          <outline text="经济思维：经济学研究任何社会如何做出最终抉择？" />
+          <outline text="概率思维：从大量随机现象中发现规律" />
+          <outline text="统计思维：采集、整理、分析社会经济现象和自然现象总体的学科" />
+        </outline>
+        <outline text="Ch2认知偏差">
+          <outline text="认知偏差">
+            <outline text="📺认知偏差（1）—10.02秒">
+              <outline text="" />
+            </outline>
+            <outline text="📺认知偏差（2）—8.58秒" />
+            <outline text="📺认知偏差（3）—12.35秒" />
+            <outline text="？为什么会出现认知偏差" />
+            <outline text="？你答对了吗">
+              <outline text="" />
+            </outline>
+            <outline text="？常见的三种认知偏差" />
+            <outline text="📒人的理性分为那两种" />
+            <outline text="📒认知偏差的分类" />
+            <outline text="📒斯坦诺维奇整理的13种流体理性" />
+            <outline text="📒吉仁泽" />
+          </outline>
+          <outline text="认知吝啬鬼">
+            <outline text="📺认知吝啬鬼（1）—6.52秒" />
+            <outline text="📺认知吝啬鬼（2）—14.14秒" />
+            <outline text="📺认知吝啬鬼（3）—9.37秒" />
+            <outline text="？以下哪个不属于可得性启发式带来的认知偏差" />
+            <outline text="？请判断这是属于那种情况" />
+            <outline text="📒双重加工的心智模型" />
+            <outline text="📒可得性启发式" />
+            <outline text="📒代表性启发式" />
+            <outline text="📒属性替代" />
+            <outline text="📒四卡片实验" />
+            <outline text="📒属性替代" />
+            <outline text="📒结合效应" />
+            <outline text="📒反常识卡" />
+          </outline>
+          <outline text="框架与锚定">
+            <outline text="📺锚定与框架（1）—12.17秒" />
+            <outline text="📺锚定与框架（1）—11.12秒" />
+            <outline text="？测试一下" />
+            <outline text="？哪位大牛" />
+            <outline text="📒锚定效应" />
+            <outline text="📒框架效应" />
+            <outline text="📒犯了什么错误" />
+            <outline text="📒预期理论" />
+            <outline text="📒预期理论的局限性" />
+            <outline text="📒卡尼曼" />
+            <outline text="📒高估合取，低估析取" />
+            <outline text="📒你何时犯过类似的错" />
+            <outline text="如何利用框架和锚定效应" />
+          </outline>
+          <outline text="双曲线贴现">
+            <outline text="📺双曲线贴现（1）—9.10秒" />
+            <outline text="📺双曲线贴现（2）—6.15秒" />
+            <outline text="？来测试一下" />
+            <outline text="📒双曲线贴现定义" />
+            <outline text="📒如何在生活中应用双曲线贴现" />
+            <outline text="📒时间颗粒度" />
+            <outline text="📒补充阅读：什么叫2贴现" />
+            <outline text="📒齐当别模型" />
+            <outline text="📒齐当别模型的应用" />
+            <outline text="📒齐当别模型提出者" />
+          </outline>
+        </outline>
+        <outline text="Ch3心智程序">
+          <outline text="心智程序">
+            <outline text="心智程序概论：什么是心智程序？如何评判心智程序的好坏？" />
+            <outline text="人类后天学习哪些知识可以帮助自己？">
+              <outline text="实验思维：从实验心理学中汲取智慧，用科学俩了解心理和认知过程" />
+              <outline text="经济思维：经济学研究任何社会如何做出最终抉择？" />
+              <outline text="概率思维：从大量随机现象中发现规律" />
+              <outline text="统计思维：采集、整理、分析社会经济现象和自然现象总体的学科" />
+            </outline>
+            <outline text="📺心智程序导论（1）" />
+            <outline text="📺心智程序导论（2）" />
+            <outline text="测试：如何评估心智程序？" />
+            <outline text="测试：以下哪些属于模因？" />
+            <outline text="📒心智程序由来？" />
+            <outline text="📒好的心智程序" />
+            <outline text="📒坏的心智程序" />
+            <outline text="📒基因与模因" />
+            <outline text="📒快思慢想与基因模因" />
+            <outline text="📒大卫：帕金斯" />
+            <outline text="📒理查德；道金斯" />
+            <outline text="" />
+          </outline>
+          <outline text="实验思维">
+            <outline text="📺实验思维（1）" />
+            <outline text="📺实验思维（2）" />
+            <outline text="📺实验思维（3）" />
+            <outline text="📺实验思维（4）" />
+            <outline text="测试：经典条件反射" />
+            <outline text="测试：实验心理学最核心的思维方式" />
+            <outline text="测试：真实验设计的条件" />
+            <outline text="📒双盲实验" />
+            <outline text="📒安慰剂效应" />
+            <outline text="📒效度" />
+            <outline text="📒信度" />
+            <outline text="📒观察者偏向" />
+          </outline>
+          <outline text="经济思维">
+            <outline text="📺经济思维（1）" />
+            <outline text="📺经济思维（2）" />
+            <outline text="📺经济思维（3）" />
+            <outline text="测试：心里账户由谁提出？" />
+            <outline text="测试：行为经济学代表人物" />
+            <outline text="📒两个经济学概念" />
+            <outline text="📒对数增长" />
+            <outline text="📒指数增长" />
+            <outline text="📒心里账户" />
+            <outline text="📒机会成本" />
+            <outline text="📒沉默成本" />
+            <outline text="📒好消息与坏消息的奇妙组合" />
+            <outline text="📒反常识：少量的钱更趋向节省" />
+          </outline>
+          <outline text="概率思维">
+            <outline text="📺概率思维（1）" />
+            <outline text="📺概率思维（2）" />
+            <outline text="测试：这是那种逻辑谬误" />
+            <outline text="测试：房屋被盗概率有多大" />
+            <outline text="📒什么是概率？" />
+            <outline text="📒先验概率和后验概率" />
+            <outline text="📒条件概率" />
+            <outline text="📒贝叶斯" />
+            <outline text="📒贝叶斯定理" />
+            <outline text="彩蛋：10分钟学会贝叶斯分析" />
+            <outline text="📒频数表征和频率表征" />
+            <outline text="📒一场论战：吉仁泽VS卡尼曼" />
+            <outline text="📒常见逻辑谬误" />
+          </outline>
+          <outline text="统计思维">
+            <outline text="📺统计思维（1）" />
+            <outline text="📺统计思维（2）" />
+            <outline text="测试：典型抽样错误" />
+            <outline text="测试：常见分布形态" />
+            <outline text="测试：统计学的最小问题" />
+            <outline text="📒统计学溯源" />
+            <outline text="📒统计思维核心" />
+            <outline text="📒概率学与统计学" />
+            <outline text="📒抽样" />
+            <outline text="📒抽样的重要指标" />
+            <outline text="📒正态分布" />
+            <outline text="📒偏态分布" />
+            <outline text="📒统计学第一支柱--聚合" />
+            <outline text="📒案例：银行收益的偏态分布" />
+            <outline text="📒相关性的常见错误" />
+            <outline text="📒相关和因果" />
+            <outline text="📒相关性研究中的推理错误——方向问题" />
+            <outline text="📒相关研究中的推理错误——第三变量" />
+            <outline text="📒相关研究中的推理谬误——回归效应" />
+          </outline>
+        </outline>
+        <outline text="Ch4" />
+      </outline>
+      <outline text="AA002Presentation" />
+      <outline text="IA004">
+        <outline text="Ch1信息概论">
+          <outline text="" />
+        </outline>
+        <outline text="Ch2学术信息分析" />
+        <outline text="Ch3职业信息分析" />
+        <outline text="Ch4商业信息分析" />
+        <outline text="IA004知识点清单" />
+      </outline>
+      <outline text="Write006">
+        <outline text="Ch1 3.0 快写慢改">
+          <outline text="Ch1课程预告" />
+          <outline text="核心">
+            <outline text="Tips.101.快写慢改" />
+            <outline text="Tips.102.固定写作模板" />
+          </outline>
+          <outline text="基础">
+            <outline text="Tips.103.利用卡片积累素材">
+              <outline text="以苹果备忘录为例" />
+            </outline>
+            <outline text="Tips.104.利用github快写慢改" />
+            <outline text="Tips.105.利用markdown快写慢改" />
+            <outline text="Tips.106.利用番茄钟打败写作拖延" />
+            <outline text="Tips.107.利用占位符 快写/慢改（刷屏。。。/避免抄袭/正确引用）第一种：模板级别 " />
+            <outline text="Tips.108.正确引用">
+              <outline text="清华大学学术规范手册" />
+            </outline>
+          </outline>
+          <outline text="进阶理论：写作之难(上)" />
+          <outline text="进阶理论：写作之难（下）" />
+          <outline text="Ch1阳老师答疑" />
+        </outline>
+        <outline text="Ch2 3.0 字词">
+          <outline text="Ch2课程预告" />
+          <outline text="核心">
+            <outline text="Tips.201.极简写作策略" />
+            <outline text="Tips.202.写作清单（两份示范，换例子余光中/平克）" />
+          </outline>
+          <outline text="基础（字里行间，多举例子，陈词滥调表——分类——改写）">
+            <outline text="Tips.203.实词">
+              <outline text="名词堆积" />
+            </outline>
+            <outline text="Tips.204.虚词" />
+            <outline text="Tips.205.节俭使用元话语" />
+            <outline text="Tips.206.避免清单式写作">
+              <outline text="常见的清单体" />
+            </outline>
+            <outline text="Tips.207.利用写匠慢改文章（错别字、古典风格）" />
+            <outline text="Tips.208.整理个人新异词汇表（喜欢的作家、建立、调用）">
+              <outline text="中文的词汇量检验（张爱玲的词汇量，不一样的词汇）" />
+              <outline text="提高词汇量，整理个人新异词表" />
+              <outline text="37岁谢谢你，和歌集的句子，刻意练习，1-2个词汇" />
+              <outline text="通过自己喜欢的作家倒背顺背如流，新鲜感词，抓取出来。开头结尾（老阳引用古诗源）" />
+              <outline text="慢改，利用搜索引擎金句库，摘抄" />
+            </outline>
+          </outline>
+          <outline text="进阶">
+            <outline text="Model.201 写作的最小模型" />
+            <outline text="Model.202写作的最小故事" />
+            <outline text="Model.203 最小故事到复杂故事" />
+            <outline text="Model.204 写作的最小行动" />
+          </outline>
+          <outline text="Ch2FAQ" />
+        </outline>
+        <outline text="Ch3 3.0 句法">
+          <outline text="Ch3课程预告" />
+          <outline text="核心">
+            <outline text="Tips.301.诗歌句法/散文句法" />
+            <outline text="Tips.302.句子：单一变量原则" />
+          </outline>
+          <outline text="基础">
+            <outline text="Tips.303.恰当使用语态：被动/主动，中英文差异、易受影响，尽量改为主动，什么情况下用被动？（余光中/平克）。" />
+            <outline text="Tips.304.小句/大句" />
+            <outline text="Tips.305利用连贯之弧，组织句子，风格感觉ch4" />
+            <outline text="Tips.306.利用特殊权重的句子 开头、结尾，段落，开头和结尾" />
+          </outline>
+          <outline text="进阶">
+            <outline text="Model301.大脑什么样？" />
+            <outline text="Model302.大脑喜欢模式" />
+            <outline text="Model303.大脑喜欢惊奇" />
+            <outline text="Model304.大脑喜欢情绪" />
+            <outline text="Model305.大脑是个吝啬鬼" />
+          </outline>
+          <outline text="Ch3FAQ" />
+        </outline>
+        <outline text="Ch4 3.0高级版 隐喻（4个）">
+          <outline text="Ch4 课程预告" />
+          <outline text="核心">
+            <outline text="Tips401.高级文字黑客">
+              <outline text="用象似性原理重写句子「他/她从我门前经过」，强调你想强调的部分" />
+            </outline>
+            <outline text="Tips402.利用隐喻组织文章开头结尾（空间、记忆生存优势）">
+              <outline text="改写开头结尾" />
+            </outline>
+          </outline>
+          <outline text="基础">
+            <outline text="Tips403.巧用上位层次范畴" />
+            <outline text="Tips404.巧用下位层次范畴" />
+            <outline text="Tips405.古典风格的隐喻：望向世界的窗（平克+风格）" />
+            <outline text="Tips406.巧用抽象比喻具体-成为张爱玲" />
+            <outline text="Tips407.巧用平面比喻立体" />
+          </outline>
+          <outline text="进阶">
+            <outline text="Model401.范畴和范畴化" />
+            <outline text="Model402.我们赖以生存的隐喻" />
+            <outline text="Model403.图式与框架" />
+          </outline>
+          <outline text="其他协作策略">
+            <outline text="403.古典风格的隐喻：望向世界的窗">
+              <outline text="卓璇电子书" />
+            </outline>
+            <outline text="404利用大脑默认规则组织文章/基于相似性与象似性组织文章">
+              <outline text="利用相似性、时空接近性以及因果关系来组织观念" />
+              <outline text="论述要比例均衡，你最重要的主张，要用最长的篇幅来支持" />
+              <outline text="强调我经常讲的相似性道理" />
+              <outline text="因为人脑对语言有些天生默认规则，比如人类在前，动物在后，有生命在前，无生命在后，男性在前，女性在后" />
+              <outline text="应用" />
+            </outline>
+            <outline text="405.巧用时空隐喻" />
+          </outline>
+          <outline text="Ch4FAQ" />
+        </outline>
+        <outline text="Ch5 辞格">
+          <outline text="Ch5课程预告" />
+          <outline text="核心">
+            <outline text="Tips501.巧用比喻">
+              <outline text="如何理解直喻？" />
+              <outline text="如何理解隐喻？" />
+              <outline text="比喻+时空变形技法表" />
+              <outline text="同一类相互比较" />
+              <outline text="连环比喻" />
+              <outline text="无生命的比喻有生命的" />
+            </outline>
+            <outline text="Tips502.巧用夸张">
+              <outline text="如何理解夸张?" />
+              <outline text="用变小写夸张" />
+              <outline text="用变慢写夸张" />
+              <outline text="高阶的夸张技法" />
+              <outline text="添加空间位移图式" />
+            </outline>
+          </outline>
+          <outline text="基础">
+            <outline text="Tips503.巧用列叙">
+              <outline text="如何理解列叙？" />
+              <outline text="如何写列序之列举法？" />
+              <outline text="如何写列序之渐层法？" />
+              <outline text="巧用列叙" />
+            </outline>
+            <outline text="Tips504.巧用缓叙" />
+            <outline text="Tips505.巧用金句库">
+              <outline text="什么是金句？" />
+              <outline text="哲理型金句" />
+              <outline text="文采型金句" />
+              <outline text="故事型金句" />
+              <outline text="古诗词" />
+              <outline text="如何查找金句之查什么" />
+              <outline text="如何查找金句之在哪儿查" />
+            </outline>
+          </outline>
+          <outline text="进阶">
+            <outline text="Model501.好文采、坏文采">
+              <outline text="如何理解辞格？" />
+              <outline text="修辞三书是什么？" />
+              <outline text="修辞的三条路径是什么？" />
+              <outline text="如何理解象似性原则？" />
+            </outline>
+            <outline text="Model502.辞格演绎">
+              <outline text="传统修辞的死穴在哪儿？" />
+              <outline text="修辞的分类依据是什么？" />
+              <outline text="修辞感觉的公式是？" />
+              <outline text="如何理解修辞感觉？" />
+              <outline text="修辞认识的公式是什么？" />
+              <outline text="如何理解修辞认识？" />
+              <outline text="用修辞大开脑洞" />
+            </outline>
+            <outline text="Model503.时空变形">
+              <outline text="时空变形技法" />
+              <outline text="人类常见的空间模式有那些？" />
+              <outline text="五大空间隐喻系统有哪些？" />
+              <outline text="时空变形三法门" />
+              <outline text="如何理解换喻" />
+              <outline text="如何理解提喻" />
+              <outline text="是时空变形写诗" />
+              <outline text="时空变形之元反空" />
+            </outline>
+          </outline>
+          <outline text="Ch5FAQ" />
+        </outline>
+        <outline text="Ch6 修辞认识">
+          <outline text="Ch6预告" />
+          <outline text="核心">
+            <outline text="Tips601.高级修辞术：默说" />
+            <outline text="Tips602.高级修辞术：踌躇" />
+            <outline text="Tips603.高级修辞术：对比" />
+            <outline text="Tips604.高级修辞术：讽喻" />
+            <outline text="Tips605.化用金句" />
+          </outline>
+          <outline text="进阶">
+            <outline text="Model601.另类辞格" />
+          </outline>
+        </outline>
+        <outline text="Ch7 故事">
+          <outline text="Ch7预告" />
+          <outline text="核心">
+            <outline text="Tips701.掌握故事语法">
+              <outline text="写作的最小故事是什么？" />
+              <outline text="故事的四要素是什么？" />
+              <outline text="最小故事的四原则是什么？" />
+              <outline text="坏故事怎么样？" />
+              <outline text="什么是最小故事？" />
+              <outline text="故事的生成过程是？" />
+              <outline text="如何练习最小故事？" />
+            </outline>
+            <outline text="Tips702.基于人性写故事">
+              <outline text="人性如同光谱" />
+              <outline text="人类美德生成器" />
+              <outline text="《爱》中微妙的人性" />
+              <outline text="写复杂人性的三个层次" />
+              <outline text="人性最小的三个故事" />
+            </outline>
+            <outline text="Tips703.练习社会意向性">
+              <outline text="什么是心理理论？" />
+              <outline text="什么是邓巴数字？" />
+              <outline text="什么是意向性？" />
+              <outline text="好作家能降到一阶和二阶" />
+              <outline text="莎士比亚的意向性" />
+              <outline text="新手写故事为什么出现意向性的问题？" />
+            </outline>
+          </outline>
+          <outline text="基础">
+            <outline text="Tips704." />
+            <outline text="Tips705." />
+          </outline>
+          <outline text="进阶">
+            <outline text="Model701.人类最小故事" />
+            <outline text="Model702.种一颗故事树（上）" />
+            <outline text="Model702.种一颗故事树（下）" />
+            <outline text="创新算法" />
+          </outline>
+        </outline>
+        <outline text="Ch8Bp">
+          <outline text="Bp点评会" />
+          <outline text="Bp预演回放" />
+        </outline>
+      </outline>
+      <outline text="《做自己的福尔摩斯-构建你的信息系统》">
+        <outline text="信息洪流中的各种矛盾">
+          <outline text="实体和实例（既要抽象，又不能完全要抽象）">
+            <outline text="实体" />
+            <outline text="实例是什么？" />
+            <outline text="如何更好记忆？" />
+          </outline>
+        </outline>
+        <outline text="信息系统的要素-如何解决矛盾">
+          <outline text="信息获取" />
+          <outline text="信息整理" />
+          <outline text="信息分析" />
+          <outline text="信息报告" />
+        </outline>
+        <outline text="好系统VS坏系统" />
+        <outline text="" />
+      </outline>
+      <outline text="滴答清单">
+        <outline text="谁需要学这么课？" />
+        <outline text="界面环境和设置" />
+        <outline text="你一天都忙着什么事？">
+          <outline text="为什么你总拖延?" />
+          <outline text="事情太多，怎么聚焦在今天的任务上?" />
+          <outline text="如何分类事？" />
+        </outline>
+        <outline text="项目">
+          <outline text="如何做项目？" />
+          <outline text="如何协同？" />
+        </outline>
+        <outline text="休息">
+          <outline text="番茄时钟" />
+          <outline text="止损" />
+          <outline text="回顾" />
+        </outline>
+        <outline text="清单VS标签VS智能清单" />
+        <outline text="时间尺度">
+          <outline text="总结" />
+          <outline text="周检视" />
+          <outline text="时间日志" />
+          <outline text="年度计划" />
+        </outline>
+      </outline>
+      <outline text="SVM的竞争格局思考">
+        <outline text="前言" />
+        <outline text="Solana为什么需要Layer2呢？" />
+        <outline text="SVM的竞争格局" />
+        <outline text="有关SVM新叙事的思考" />
+        <outline text="有关Sonic的思考" />
+        <outline text="结语" />
+      </outline>
+      <outline text="SolFun">
+        <outline text="SolFun游乐场丨Notion">
+          <outline text="SolFun游乐场丨Solagon" />
+          <outline text="SOLFun游乐场丨入口" />
+          <outline text="SolFun游乐场丨指南" />
+          <outline text="SolFun游乐场丨指南🧭">
+            <outline text="&lt;b&gt;SolFun游乐场丨追踪🥷&lt;/b&gt;">
+              <outline text="Alpha丨Solana Money Flow">
+                <outline text="Solna NFT丨List" />
+                <outline text="Solana Token丨List" />
+                <outline text="Solana Airdrop丨List" />
+              </outline>
+              <outline text="Dive 丨Solana Ecosystem">
+                <outline text="Solana Mapping丨Six Tracks">
+                  <outline text="Infra ">
+                    <outline text="Wallets">
+                      <outline text="Phanntom" />
+                      <outline text="Backpack" />
+                      <outline text="SolFare" />
+                      <outline text="Squads" />
+                    </outline>
+                    <outline text="Interop">
+                      <outline text="Wormhole" />
+                      <outline text="Li.FI" />
+                      <outline text="Mayan" />
+                      <outline text="Allbridges" />
+                      <outline text="Debridge" />
+                      <outline text="Zeus" />
+                    </outline>
+                    <outline text="Dev Tooling">
+                      <outline text="Helius" />
+                      <outline text="Trion" />
+                      <outline text="ironforge" />
+                    </outline>
+                    <outline text="DAO Tooling" />
+                    <outline text="AI Agents" />
+                    <outline text="Oracles" />
+                    <outline text="Clients +nodes" />
+                    <outline text="Scaling" />
+                    <outline text="ComPute" />
+                    <outline text="Analytics +Uers Tools" />
+                  </outline>
+                  <outline text="Consumer Apps " />
+                  <outline text="DeFi" />
+                  <outline text="Payments" />
+                  <outline text="DePin " />
+                  <outline text="Gaming " />
+                  <outline text="DAOs &amp; Communities " />
+                  <outline text="&lt;a href=&quot;https://www.diadata.org/bitcoin-ecosystem-map/&quot;&gt;https://www.diadata.org/bitcoin-ecosystem-map/&lt;/a&gt;" />
+                  <outline text="" />
+                </outline>
+                <outline text="Solana Tool丨SolFun ToolKit 丨List">
+                  <outline text="&lt;a href=&quot;https://solanabox.tools/?categorie=portfolio%20tracker&quot;&gt;https://solanabox.tools/?categorie=portfolio%20tracker&lt;/a&gt;" />
+                  <outline text="&lt;a href=&quot;https://gmgn.ai/bot/Se63sZN0F?chain=sol&quot;&gt;https://gmgn.ai/bot/Se63sZN0F?chain=sol&lt;/a&gt;" />
+                  <outline text="&lt;a href=&quot;https://t.me/GMGN_alert_bot&quot;&gt;https://t.me/GMGN_alert_bot&lt;/a&gt;" />
+                </outline>
+              </outline>
+            </outline>
+            <outline text="&lt;b&gt;SolFun游乐场丨发布📖&lt;/b&gt;">
+              <outline text="SolFun Alpha Review丨Two Weeks" />
+              <outline text="SolFun Meeting Room丨Two Weeks " />
+              <outline text="SolFun Monthly Recap丨Monthly" />
+              <outline text="SolFun Builder Talk丨Monthly" />
+            </outline>
+            <outline text="&lt;b&gt;SolFun游乐场丨建造🏠&lt;/b&gt;">
+              <outline text="SPL-Token-Analysis" />
+              <outline text="MEME Talk" />
+              <outline text="Globle Event Know " />
+              <outline text="……" />
+            </outline>
+            <outline text="&lt;b&gt;SolFun游乐场丨更多……&lt;/b&gt;">
+              <outline text="About SolFun" />
+              <outline text="Contact US" />
+              <outline text="Brandkit" />
+              <outline text="SolFun NFT" />
+            </outline>
+          </outline>
+          <outline text="&lt;b&gt;More丨About US&lt;/b&gt;">
+            <outline text="About SolFun" />
+            <outline text="Contact US" />
+            <outline text="BrandKit" />
+            <outline text="SolFun NFT" />
+          </outline>
+        </outline>
+        <outline text="PPT" />
+        <outline text="微信群" />
+        <outline text="入学登记" />
+        <outline text="SolFun参考">
+          <outline text="闪闪人生公开课：&lt;a href=&quot;https://sunnylife.feishu.cn/wiki/wikcnwycB9oQUjUQt3O85YyBJLh&quot;&gt;https://sunnylife.feishu.cn/wiki/wikcnwycB9oQUjUQt3O85YyBJLh&lt;/a&gt;">
+            <outline text="&lt;a href=&quot;https://sunnylife42.com/docs&quot;&gt;https://sunnylife42.com/docs&lt;/a&gt;" />
+            <outline text="" />
+          </outline>
+          <outline text="" />
+        </outline>
+      </outline>
+      <outline text="Zypher Game">
+        <outline text="Website：&lt;a href=&quot;https://zypher.game/&quot;&gt;https://zypher.game/&lt;/a&gt;" />
+        <outline text="Twitter" />
+        <outline text="Publish丨substack" />
+        <outline text="Github" />
+        <outline text="GitBook" />
+      </outline>
+      <outline text="RSS信息聚合">
+        <outline text="Payment">
+          <outline text="&lt;a href=&quot;https://research.web3caff.com/zh/?s=SVM&amp;ref=960&quot;&gt;https://research.web3caff.com/zh/?s=SVM&amp;ref=960&lt;/a&gt;" />
+        </outline>
+        <outline text="Medium" />
+        <outline text="Substack">
+          <outline text="REKT CAPITAL" />
+        </outline>
+        <outline text="Website">
+          <outline text="Crypto">
+            <outline text="&lt;a href=&quot;https://www.crunchbase.com/&quot;&gt;https://www.crunchbase.com/&lt;/a&gt;" />
+            <outline text="&lt;a href=&quot;https://dealroom.co/&quot;&gt;https://dealroom.co/&lt;/a&gt;" />
+            <outline text="Bankless: &lt;a href=&quot;https://www.bankless.com/&quot;&gt;https://www.bankless.com/&lt;/a&gt;" />
+            <outline text="&lt;a href=&quot;https://k33.com/research&quot;&gt;https://k33.com/research&lt;/a&gt;" />
+            <outline text="&lt;a href=&quot;https://thedefireport.io/&quot;&gt;https://thedefireport.io/&lt;/a&gt;" />
+            <outline text="&lt;a href=&quot;https://www.ournetwork.xyz/contributors&quot;&gt;https://www.ournetwork.xyz/contributors&lt;/a&gt;" />
+            <outline text="&lt;a href=&quot;https://thedefiant.io/i&quot;&gt;https://thedefiant.io/i&lt;/a&gt;" />
+            <outline text="&lt;a href=&quot;https://www.openingbelldailynews.com/&quot;&gt;https://www.openingbelldailynews.com/&lt;/a&gt;" />
+            <outline text="" />
+          </outline>
+        </outline>
+        <outline text="" />
+      </outline>
+      <outline text="AIPython002">
+        <outline text="欢迎您，新同学">
+          <outline text="AI编程目标是什么？" />
+          <outline text="群租在哪儿？" />
+          <outline text="你的学习期待是什么？" />
+          <outline text="课程日期如何安排？">
+            <outline text="0701-0818" />
+          </outline>
+          <outline text="课程大纲是什么？">
+            <outline text="Part1 编程准备">
+              <outline text="ch01 认识编程" />
+              <outline text="ch02  编程技术准备" />
+            </outline>
+            <outline text="Part2 基础知识">
+              <outline text="ch03 初识Python语法" />
+              <outline text="ch04 进阶认识Python语法" />
+            </outline>
+            <outline text="Part3 编程实操">
+              <outline text="ch05 初识 CLI应用" />
+              <outline text="ch06 AI时代的CLI应用" />
+              <outline text="ch07 初识云端应用" />
+              <outline text="ch08 云端应用的数据库" />
+              <outline text="ch09 客户端应用 （上）" />
+              <outline text="ch10 客户端应用 （下）" />
+            </outline>
+          </outline>
+          <outline text="开学典礼讲什么？" />
+          <outline text="如何创建平台账号/提交代码？">
+            <outline text="登陆Coding">
+              <outline text="&lt;a href=&quot;http://coding.net&quot;&gt;coding.net&lt;/a&gt;" />
+              <outline text="账号：lvxuan126@126.com" />
+              <outline text="密码：lx8201620195，" />
+            </outline>
+            <outline text="创建仓库">
+              <outline text="g-zsct4618/aipython002home/XuanRui" />
+            </outline>
+            <outline text="本地建立代码仓库，同步到云端">
+              <outline text="git clone 仓库链接" />
+              <outline text="git add ." />
+              <outline text="git commit" />
+              <outline text="git push" />
+            </outline>
+            <outline text="写完作业后，提交作业">
+              <outline text="《Python实战训练背记手册》pdf，建议熟悉前13章的内容**" />
+              <outline text="&lt;a href=&quot;https://weread.qq.com/web/bookDetail/5bc32bf07193f23e5bc1d59&quot;&gt;《笨办法学python》&lt;/a&gt;，建议挑战前40个习题">
+                <outline text="网站：&lt;a href=&quot;https://www.zybuluo.com/Standalone/note/1677177#%E7%BB%83%E4%B9%A0-1-%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F&quot;&gt;https://www.zybuluo.com/Standalone/note/1677177#%E7%BB%83%E4%B9%A0-1-%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F&lt;/a&gt;" />
+                <outline text="" />
+              </outline>
+            </outline>
+          </outline>
+        </outline>
+        <outline text="学习使用指南">
+          <outline text="都用什么平台？">
+            <outline text="网页端" />
+            <outline text="小程序端" />
+          </outline>
+          <outline text="学习路径是什么？">
+            <outline text="卡包视频：&lt;b&gt;学习&lt;/b&gt;" />
+            <outline text="讨论区：&lt;b&gt;提问&lt;/b&gt;" />
+            <outline text="作业区：&lt;b&gt;提交&lt;/b&gt;" />
+            <outline text="线上会议：&lt;b&gt;点评&lt;/b&gt;" />
+          </outline>
+          <outline text="如何快速找到卡片？" />
+          <outline text="卡片翻转有什么作用？" />
+          <outline text="如何收藏卡片？" />
+          <outline text="如何查看卡片？" />
+          <outline text="如何分享卡片？" />
+          <outline text="手机端如何查看？" />
+          <outline text="如何找到课程作业？" />
+          <outline text="如何查看其他同学作业？" />
+          <outline text="如何查看点评？" />
+          <outline text="如何发起谈论？" />
+          <outline text="如何关闭讨论？" />
+          <outline text="如何查看讨论区所有公告？" />
+          <outline text="如何接收到一休的通知？" />
+          <outline text="系统出现问题怎么办？" />
+        </outline>
+        <outline text="Ch01 认识编程">
+          <outline text="CH01 学习目标">
+            <outline text="学习编程有什么难点？" />
+            <outline text="AI时代，编程的难点如何解决？" />
+            <outline text="AI编程课程如何设计？" />
+          </outline>
+          <outline text="认识编程">
+            <outline text="编程为什么如此之难？">
+              <outline text="语言之难">
+                <outline text="单一语言无法解决所有任务" />
+              </outline>
+              <outline text="设计之难">
+                <outline text="实际需求和具体技术，天然矛盾" />
+              </outline>
+              <outline text="认知之难">
+                <outline text="认知过载" />
+              </outline>
+            </outline>
+            <outline text="如何解决？">
+              <outline text="难在工程：单一语言无法解决所有任务，编程技术语言分层" />
+              <outline text="难在设计：产品需求VS具体技术=完成大于完美" />
+              <outline text="难在认知：如何解决=模仿实际工程师工作流程">
+                <outline text="本地 Code" />
+                <outline text="调试：Debug" />
+                <outline text="提交：Commit" />
+                <outline text="部署：Deploy" />
+              </outline>
+            </outline>
+            <outline text="课程如何设计？">
+              <outline text="CLI应用软件" />
+              <outline text="云端应用软件（Web应用）" />
+              <outline text="客户端应用软件（桌面应用）" />
+            </outline>
+          </outline>
+        </outline>
+        <outline text="Ch02 编程技术准备">
+          <outline text="Ch02学习目标：如何从0开始编写一个软件">
+            <outline text="掌握编程语言" />
+            <outline text="知道编程的流程和工具" />
+            <outline text="了解尤其AI时代生产力工具的编程指令" />
+          </outline>
+          <outline text="编程语言">
+            <outline text="如何从零编写一个软件？" />
+            <outline text="什么是软件？">
+              <outline text="软件是一个集合">
+                <outline text="程序" />
+                <outline text="文档" />
+                <outline text="数据" />
+              </outline>
+            </outline>
+            <outline text="微信的例子">
+              <outline text="" />
+            </outline>
+            <outline text="什么是编程？">
+              <outline text="盖房子" />
+            </outline>
+            <outline text="如何进行编程？">
+              <outline text="编程语言">
+                <outline text="大计算过程而设计出来的，用于和计算机通信的形式语言" />
+                <outline text="形式语言VS自然语言" />
+                <outline text="分层">
+                  <outline text="操作系统语言：程序运行的环境" />
+                  <outline text="通用开发语言">
+                    <outline text="解释型语言Python：开发效率高" />
+                    <outline text="编译型语言C++：先编译后执行" />
+                  </outline>
+                  <outline text="为特定任务或领域设计的语言：专注、高效">
+                    <outline text="HTML：用于描述网页机构" />
+                    <outline text="CSS：用于描述网页样式" />
+                    <outline text="SQL：用于操作数据库" />
+                  </outline>
+                </outline>
+                <outline text="流程">
+                  <outline text="输入" />
+                  <outline text="Help" />
+                  <outline text="输出" />
+                </outline>
+              </outline>
+              <outline text="编程流程和工具" />
+              <outline text="编程指令" />
+            </outline>
+          </outline>
+          <outline text="安装">
+            <outline text="本地Code：Vsode" />
+            <outline text="调试Debug：ITerm2" />
+            <outline text="提交Commit：Coding Devops" />
+            <outline text="部署Dploy：Vercel" />
+          </outline>
+        </outline>
+        <outline text="Ch03 初识Python语法">
+          <outline text="上手：如何写出Python代码片段">
+            <outline text="理解变量和数据类型" />
+            <outline text="掌握三种程序结构的写法" />
+            <outline text="掌握函数的写法" />
+          </outline>
+          <outline text="变量和数据类型">
+            <outline text="语言是由什么构成？" />
+            <outline text="Python语言是由什么构成？">
+              <outline text="实体：变量和数据类型">
+                <outline text="什么是变量？">
+                  <outline text="存储数据值的标签" />
+                </outline>
+                <outline text="" />
+              </outline>
+              <outline text="逻辑：程序结构" />
+              <outline text="实体+逻辑=函数" />
+            </outline>
+            <outline text="" />
+          </outline>
+        </outline>
+      </outline>
+      <outline text="On-Chain-Data">
+        <outline text="Scopechat" />
+        <outline text="" />
+      </outline>
+      <outline text="Figma">
+        <outline text="Figma的奇幻漫游">
+          <outline text="步入Figma之前">
+            <outline text="Figma的牛逼之处">
+              <outline text="Figma 通过 Frame、自动布局、组件等软件内具体的方法模拟代码实现，让你可以高效快捷地做出动态的、响应式、系统化的设计" />
+            </outline>
+            <outline text="Figma付费计划" />
+            <outline text="浏览器VS 客户端" />
+            <outline text="色彩空间" />
+            <outline text="" />
+          </outline>
+          <outline text="Figma背后范式有哪些？">
+            <outline text="结构化设计">
+              <outline text="自由：Free From Design" />
+              <outline text="结构：Structured Design" />
+              <outline text="Frame：容器" />
+            </outline>
+            <outline text="动态响应式设计">
+              <outline text="自适应布局" />
+              <outline text="响应式约束" />
+            </outline>
+            <outline text="设计系统与组件式设计">
+              <outline text="组件（Conponet）" />
+              <outline text="样式（Style）" />
+            </outline>
+            <outline text="开放 API 与自动化设计" />
+          </outline>
+          <outline text="核心概念：Frame">
+            <outline text="Div=Frame=容器">
+              <outline text="在Web前端中，div是一个常见的HTML元素，用于创建和定义网页的各个区域或容器。下面是div的几个常见用法：" />
+              <outline text="布局容器：div通常用来创建网页的布局结构，可以将不同的内容和元素放在不同的div中，通过CSS样式控制它们的位置、大小和样式。通过使用不同的CSS属性和布局技巧，可以创造出丰富多样的网页布局。" />
+              <outline text="分割区域：div可以被用来将网页的不同部分划分为独立的区域，便于样式和交互的控制。可以使用div来分割导航栏、页眉、页脚、侧边栏等不同的区域，以便更好地组织和管理网页内容。" />
+              <outline text="容器包裹：div可以用作容器，将其他类型的元素包裹在其中。通过给div添加样式和属性，可以对包裹在其中的元素进行集体控制和管理。这在实现网页的响应式设计和排版时非常有用。" />
+              <outline text="样式控制：div可以用于给特定的元素或一组元素添加样式。通过为div添加CSS类或ID，并编写相应的样式规则，可以对包裹在div中的元素进行样式上的统一调整和控制。" />
+              <outline text="JavaScript交互：div也可以用于JavaScript的交互操作。通过给div添加事件监听器，可以实现响应用户的操作和触发相应的JavaScript函数来更新内容、执行动画效果等。" />
+              <outline text="综上所述，div在Web前端中具有多种用途，可以用于布局、分割区域、容器包裹、样式控制和JavaScript交互等，是前端开发中必不可少的元素。" />
+            </outline>
+            <outline text="Frame 如何体现 Figma 的设计理念">
+              <outline text="模块化设计" />
+              <outline text="响应式设计" />
+              <outline text="组件式设计" />
+            </outline>
+            <outline text="Frame 的基本操作技巧">
+              <outline text="F：创建 Frame" />
+              <outline text="自适应" />
+              <outline text="吸附" />
+              <outline text="快速选择：CMD+点击" />
+              <outline text="切换：Enter/ Shift +enter" />
+              <outline text="" />
+            </outline>
+          </outline>
+          <outline text="核心概念：样式库">
+            <outline text="样式库（Style）是什么？=视觉规范=设计风格">
+              <outline text="颜色（Color）：可以用于图形背景色、文字颜色、描边颜色；" />
+              <outline text="文本（Text）：字体、字号、行高等；" />
+              <outline text="效果（Effect）：内外投影、模糊、背景模糊（毛玻璃效果）；" />
+              <outline text="布局栅格（Layout Grid）：上一篇文章中提到的网格、横向和纵向布局参考。" />
+            </outline>
+            <outline text="如何创建样式库？">
+              <outline text="颜色样式">
+                <outline text="主色（Primary）" />
+                <outline text="辅助色（Secondary）" />
+                <outline text="衍生色">
+                  <outline text="在设计 Dark mode 时不需要新的样式，直接使用对称色替换即可；" />
+                </outline>
+                <outline text="整理命名和排序" />
+                <outline text="" />
+              </outline>
+              <outline text="文本样式">
+                <outline text="行高都设置为 4 的倍数" />
+                <outline text="" />
+              </outline>
+              <outline text="效果样式" />
+              <outline text="布局栅格样式" />
+            </outline>
+          </outline>
+          <outline text="动态设计">
+            <outline text="自动布局">
+              <outline text="自动布局是什么？">
+                <outline text="是容器可以自己适应内容的变化，或者是内容可以适应容器的变化，或者是相邻元素之间可以互相影响，免去手动调整的工作。" />
+              </outline>
+              <outline text="正常布局流" />
+              <outline text="弹性盒子" />
+            </outline>
+            <outline text="自动布局的属性（内容决定容器尺寸）">
+              <outline text="自动宽度（Auto width）" />
+              <outline text="自动高度（Auto height）" />
+              <outline text="和固定尺寸（Fixed size）。" />
+            </outline>
+            <outline text="自动布局中内容分布" />
+            <outline text="高级自动布局技巧" />
+            <outline text="实现复杂嵌套布局的四点建议">
+              <outline text="由内而外" />
+              <outline text="不随便拉伸" />
+              <outline text="模块在心中" />
+              <outline text="逐层查找问题" />
+            </outline>
+          </outline>
+          <outline text="响应式设计">
+            <outline text="布局栅格（Layout grid）" />
+            <outline text="约束规则（Constraints）" />
+          </outline>
+          <outline text="组件式设计=搭积木">
+            <outline text="什么是组件？">
+              <outline text="在设计时，组件就是各种可以重复使用的元素，小到一个按钮，大到整个页面，所有可以被重复利用的元素都可以视作「组件」。" />
+            </outline>
+            <outline text="什么事组件式设计？">
+              <outline text="将这些重复出现的模式做成模板，每次需要使用时直接复用，这种方式就是组件式设计。组件不仅可以帮我们提高设计效率，还能保证多人协作设计的一致性。" />
+            </outline>
+            <outline text="组件的由来">
+              <outline text="Figma 受到原子化设计方法的影响，支持组件嵌套，因此，我们可以先创建原子组件，再在它们的基础上创建分子组件，形成复杂组件。" />
+            </outline>
+            <outline text="创建组件&lt;code&gt;Cmd+Option+K&lt;/code&gt; " />
+            <outline text="组件面板（Shift+I）" />
+            <outline text="组件的嵌套" />
+            <outline text="从组件到组件库" />
+          </outline>
+          <outline text="高效交付">
+            <outline text="文件的整理与分类" />
+            <outline text="语义化版本" />
+            <outline text="历史记录" />
+          </outline>
+          <outline text="" />
+        </outline>
+        <outline text="实战：公众号文章封面">
+          <outline text="确定：素材尺寸" />
+          <outline text="认识编辑器">
+            <outline text="顶部导航栏" />
+            <outline text="左侧页面图层" />
+            <outline text="右侧属性区" />
+          </outline>
+          <outline text="制作封面">
+            <outline text="F：新建画板" />
+            <outline text="Shift+CMD+K ：文件夹 " />
+            <outline text="Shift+option+拖拽 ：调整大小" />
+            <outline text="T ：输入文字" />
+            <outline text="F：白色" />
+            <outline text="0：黑色" />
+            <outline text="属性：&lt;code&gt;Shift&lt;/code&gt; 键的同时按一下方向键会向该方向移动 10p" />
+          </outline>
+        </outline>
+      </outline>
+      <outline text="Blinks">
+        <outline text="Actions" />
+        <outline text="Wallets" />
+        <outline text="Blinks-integrated protocol" />
+        <outline text="Blinks-Use-Cases" />
+      </outline>
+      <outline text="7.20Solana活动丨待办事项清单">
+        <outline text="物料（周一确认✅）">
+          <outline text="报价">
+            <outline text="4个易拉宝（80*200）">
+              <outline text="Solana" />
+              <outline text="Solar" />
+              <outline text="Sonic" />
+              <outline text="🚨？" />
+            </outline>
+            <outline text="好玩的KT板 80*50 ">
+              <outline text="确保Solana在深圳发生！" />
+              <outline text="确保Solar在深圳发生！" />
+              <outline text="确保Sonic在深圳发生！" />
+              <outline text="Only Possible On @Solana" />
+            </outline>
+          </outline>
+          <outline text="设计" />
+          <outline text="交付时间" />
+        </outline>
+        <outline text="场地（周三确认✅）">
+          <outline text="勘查" />
+          <outline text="场地布置" />
+          <outline text="场地细节再次确认" />
+        </outline>
+        <outline text="现场人员安排" />
+      </outline>
+      <outline text="Blinks Ecosystem">
+        <outline text="Wallets">
+          <outline text="OKX Wallet" />
+          <outline text="Bitget Wallet" />
+          <outline text="phantom" />
+          <outline text="backPack" />
+        </outline>
+        <outline text="integrated protocol" />
+        <outline text="categories" />
+        <outline text=" Use Case">
+          <outline text="DeFi and Payments" />
+          <outline text="Governance" />
+          <outline text="NFTs and Collectibles" />
+          <outline text="Content and Social Protocols" />
+        </outline>
+      </outline>
+      <outline text="&lt;a href=&quot;http://ipo.one/&quot;&gt;IPO.one&lt;/a&gt;-Beneficial from AI for everyone">
+        <outline text="Background">
+          <outline text="Why Distributed Computing imPortant" />
+          <outline text="The Rise of distributed computing" />
+          <outline text="The Challengle of Distributed Computing" />
+        </outline>
+        <outline text="&lt;a href=&quot;http://ipo.one/&quot;&gt;IPO.one&lt;/a&gt;">
+          <outline text="Introduction">
+            <outline text="Summary">
+              <outline text="Creating an open cooperative, high cost-effective platform providing Hyper.Converged Computing service to global users by utilizing hybrid-decentralized.tech and token incentives to encourage all computing devices owners to join.with a tamper proof privacy compute protection." />
+            </outline>
+            <outline text="Tech Feature">
+              <outline text="Blockchain " />
+              <outline text="Infra API " />
+              <outline text="Hardware ODM" />
+              <outline text="Fintech RWA " />
+            </outline>
+          </outline>
+          <outline text="Why We Build">
+            <outline text="Cloud Computing Resources" />
+            <outline text="Edge Computing Resources " />
+            <outline text="Global Investors " />
+            <outline text="Tech advantages " />
+          </outline>
+          <outline text="Key Components ">
+            <outline text="HCI Platform" />
+            <outline text="IDC Computing Resources RWA Products " />
+            <outline text="DePIN Hardwares " />
+            <outline text="HowFinance " />
+          </outline>
+          <outline text="&lt;span class=&quot;colored c-red&quot;&gt;Workflow?&lt;/span&gt;" />
+          <outline text="Use Cases">
+            <outline text="Miners" />
+            <outline text="AI training and inference " />
+            <outline text="Scientific computing" />
+            <outline text="Games " />
+            <outline text="Rendering " />
+          </outline>
+          <outline text="User Growth">
+            <outline text="To C" />
+            <outline text="To distributor (Ambassador) " />
+            <outline text="To Genesis Nodes " />
+          </outline>
+          <outline text="Draft Tokenomics ">
+            <outline text="Token Overview" />
+            <outline text="Token Distribution" />
+            <outline text="Token Vesting" />
+            <outline text="Token Utility" />
+            <outline text="Compute Rewards" />
+            <outline text="Nodes hosting rewards " />
+          </outline>
+          <outline text="Draft Nodes">
+            <outline text="Genesis " />
+            <outline text="Sub-nodes " />
+          </outline>
+          <outline text="&lt;span class=&quot;colored c-red&quot;&gt;Fund?&lt;/span&gt;" />
+          <outline text="&lt;span class=&quot;colored c-red&quot;&gt;ComPetition?&lt;/span&gt;" />
+          <outline text="Roadmap ">
+            <outline text="2024 Q4" />
+            <outline text="2025 H1" />
+            <outline text="2025 H2" />
+          </outline>
+          <outline text="Our Partners" />
+        </outline>
+        <outline text="The Future of &lt;a href=&quot;http://ipo.one/&quot;&gt;IPO.one&lt;/a&gt;">
+          <outline text="Our Philosophy" />
+          <outline text="Beneficial from AI for everyone" />
+        </outline>
+      </outline>
+      <outline text="Soalr" />
+      <outline text="模仿的顶级Solana程序员">
+        <outline text="&lt;a href=&quot;https://nick.af/now&quot;&gt;https://nick.af/now&lt;/a&gt;" />
+        <outline text="&lt;a href=&quot;https://x.com/kashdhanda&quot;&gt;https://x.com/kashdhanda&lt;/a&gt;" />
+      </outline>
+      <outline text="Booming3">
+        <outline text="Potential Connections" />
+        <outline text="Contributors">
+          <outline text="Solana Training" />
+          <outline text="Solana Tanlent">
+            <outline text="Bounties" />
+            <outline text="Grants" />
+            <outline text="Jobs" />
+          </outline>
+        </outline>
+        <outline text="Members">
+          <outline text="Solana Projects">
+            <outline text="钱包项目丨长期" />
+            <outline text="Blink版Luma丨长期" />
+            <outline text="web3综艺丨长期" />
+            <outline text="Blinks铭文丨中期" />
+            <outline text="Blink社群工具" />
+            <outline text="Blink社交丨中期" />
+            <outline text="Blink宠物经济丨Pet dao" />
+            <outline text="Blinks轻量化课程">
+              <outline text="&lt;a href=&quot;https://neu.salon/&quot;&gt;https://neu.salon/&lt;/a&gt;" />
+            </outline>
+            <outline text="&lt;b&gt;Blinks二手市场&lt;/b&gt;" />
+            <outline text="Blinks广告联盟" />
+            <outline text="Blinks extension" />
+          </outline>
+        </outline>
+        <outline text="Founders">
+          <outline text="Culture" />
+        </outline>
+      </outline>
+      <outline text="Blinks到底容不容被封？丨系列策划">
+        <outline text="&lt;b&gt;付费公开课&lt;/b&gt;丨轩睿的Product Time丨02丨Blinks到底容不容被封？">
+          <outline text="直播策划：（轩睿负责）&lt;a href=&quot;https://docs.google.com/document/d/1CdEfhRrZn0XQGFEceb4qbhWR97jv265pKKpYbGw3yuI/edit?usp=sharing&quot;&gt;https://docs.google.com/document/d/1CdEfhRrZn0XQGFEceb4qbhWR97jv265pKKpYbGw3yuI/edit?usp=sharing&lt;/a&gt;" />
+          <outline text="Blink直播课丨付费流程优化丨Amagi" />
+        </outline>
+        <outline text="&lt;b&gt;预测&lt;/b&gt;丨JogoJogo预测丨Blinks到底容不容被封？">
+          <outline text="已联系tony开预测池（轩睿负责）" />
+        </outline>
+        <outline text="&lt;b&gt;视频教程&lt;/b&gt;丨Blinks教程丨Shootter">
+          <outline text="《blinks video》" />
+          <outline text="&lt;a href=&quot;https://www.alipan.com/s/CWK678VoBVY&quot;&gt;https://www.alipan.com/s/CWK678VoBVY&lt;/a&gt;" />
+          <outline text="提取码: 26gh" />
+          <outline text="点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。" />
+        </outline>
+        <outline text="&lt;b&gt;打卡&lt;/b&gt;丨#每日一Blinks" />
+      </outline>
+      <outline text="Solana开发入门丨0xDragon888">
+        <outline text="概念入门">
+          <outline text="&lt;a href=&quot;https://learnblockchain.cn/maps/Solana&quot;&gt;https://learnblockchain.cn/maps/Solana&lt;/a&gt;" />
+          <outline text="&lt;a href=&quot;https://solana.com/docs&quot;&gt;https://solana.com/docs&lt;/a&gt;" />
+          <outline text="&lt;a href=&quot;https://solanacookbook.com/#contributing&quot;&gt;https://solanacookbook.com/#contributing&lt;/a&gt;" />
+        </outline>
+        <outline text="完整教程">
+          <outline text="&lt;a href=&quot;https://www.solanazh.com/&quot;&gt;https://www.solanazh.com/&lt;/a&gt;" />
+          <outline text="&lt;a href=&quot;https://www.quicknode.com/guides/welcome&quot;&gt;https://www.quicknode.com/guides/welcome&lt;/a&gt;" />
+          <outline text="&lt;a href=&quot;https://www.solana-cn.com/&quot;&gt;https://www.solana-cn.com/&lt;/a&gt;" />
+        </outline>
+        <outline text="最新进展">
+          <outline text="&lt;a href=&quot;https://www.helius.dev/blog&quot;&gt;https://www.helius.dev/blog&lt;/a&gt;" />
+          <outline text="&lt;a href=&quot;https://blog.superteam.fun/&quot;&gt;https://blog.superteam.fun/&lt;/a&gt;" />
+          <outline text="&lt;a href=&quot;https://blog.colosseum.org/&quot;&gt;https://blog.colosseum.org/&lt;/a&gt;" />
+        </outline>
+      </outline>
+      <outline text="Booming3">
+        <outline text="Booming3丨Logo Assets">
+          <outline text="Ref">
+            <outline text="&lt;a href=&quot;https://x.com/StableLabs&quot;&gt;https://x.com/StableLabs&lt;/a&gt;" />
+            <outline text="&lt;a href=&quot;https://x.com/formacity&quot;&gt;https://x.com/formacity&lt;/a&gt;" />
+            <outline text="&lt;a href=&quot;https://x.com/khalani_network&quot;&gt;https://x.com/khalani_network&lt;/a&gt;" />
+            <outline text="&lt;a href=&quot;https://x.com/Dolomite_io&quot;&gt;https://x.com/Dolomite_io&lt;/a&gt;" />
+            <outline text="&lt;a href=&quot;https://x.com/daylightenergy_&quot;&gt;https://x.com/daylightenergy_&lt;/a&gt;" />
+            <outline text="&lt;a href=&quot;https://x.com/Decaf_so&quot;&gt;https://x.com/Decaf_so&lt;/a&gt;" />
+            <outline text="&lt;a href=&quot;https://x.com/IslandDAOx&quot;&gt;https://x.com/IslandDAOx&lt;/a&gt;" />
+            <outline text="&lt;a href=&quot;https://x.com/FourPillarsFP&quot;&gt;https://x.com/FourPillarsFP&lt;/a&gt;" />
+          </outline>
+          <outline text="Logo">
+            <outline text="&lt;a href=&quot;https://pondgnn.notion.site/Pond-s-Info-Logo-71c91942efca4543a47cfac1fa49533e&quot;&gt;https://pondgnn.notion.site/Pond-s-Info-Logo-71c91942efca4543a47cfac1fa49533e&lt;/a&gt;" />
+            <outline text="&lt;a href=&quot;https://superteamdao.notion.site/Branding-Guidelines-0b0a590f978241168ff033007bb76dc9?pvs=25&quot;&gt;https://superteamdao.notion.site/Branding-Guidelines-0b0a590f978241168ff033007bb76dc9?pvs=25&lt;/a&gt;" />
+            <outline text="&lt;a href=&quot;https://buidlerdao.notion.site/Buidler-DAO-Space-8f30fcbb72d94c40b40e7b431cc71db0&quot;&gt;https://buidlerdao.notion.site/Buidler-DAO-Space-8f30fcbb72d94c40b40e7b431cc71db0&lt;/a&gt;" />
+          </outline>
+        </outline>
+        <outline text="Blink.Mart（1-2周）">
+          <outline text="MVP丨Blinkthon丨SpringX（08.31）">
+            <outline text="Twitter丨轩睿" />
+            <outline text="Website丨MVP" />
+            <outline text="GitHub丨MVP" />
+            <outline text="Decks丨轩睿" />
+            <outline text="Demo Video丨最后" />
+          </outline>
+          <outline text="技术：">
+            <outline text="首页推荐" />
+            <outline text="管理后台" />
+            <outline text="创建Blinks商品信息（照片/标题/简介/数量）" />
+            <outline text="钱包登录" />
+            <outline text="合约功能（下单/托管/确认收货）" />
+          </outline>
+          <outline text="运营">
+            <outline text="intro">
+              <outline text="Name：" />
+              <outline text="Ticker：" />
+              <outline text="Logo：" />
+              <outline text="Description" />
+              <outline text="Website：" />
+              <outline text="Telegram：" />
+              <outline text="Twitter：" />
+            </outline>
+          </outline>
+        </outline>
+        <outline text="协作文化">
+          <outline text="Github协作" />
+          <outline text="Issue任务认领" />
+          <outline text="PMF" />
+          <outline text="" />
+        </outline>
+      </outline>
+      <outline text="modao">
+        <outline text="原型编辑区">
+          <outline text="" />
+        </outline>
+      </outline>
+      <outline text="240904Solar同步">
+        <outline text="1. Booming 3 丨在Solana玩起来">
+          <outline text="崔大师、Ben老师、轩睿、Shooter 组成深圳Solana开发者社区品牌" />
+          <outline text="定位：Booming3和Solar互补，更多的线下，更多从Solana开发者视角发声，链接Solana新开发者培训，链接本地文化建设、链接本地项目支持。" />
+          <outline text="&lt;b&gt;NEXT：下周会上网页丨希望以后得到Solar的资源和各方面支持（&lt;/b&gt;Ps：还是Solar核心成员，主要是有些不适合用Solar身份，切换用Booming3更好更快启动，做得好再过来找Soalr支持）" />
+        </outline>
+        <outline text="2.Booming 3  丨《Blinks玩起来》">
+          <outline text="已经有线上3期付费公开课" />
+          <outline text="&lt;b&gt;NEXT：OpenBuild 找上门商量开发一门《Blinks的培训课程》&lt;/b&gt;">
+            <outline text="崔棉大师、Ben老师主讲丨轩睿、Shooter负责完善" />
+          </outline>
+        </outline>
+        <outline text="3.Solana Radar Hackathon">
+          <outline text="Solar深圳线下第一次Workshop（240831）" />
+          <outline text="&lt;b&gt;Next：&lt;/b&gt;看后续是否还要举办一次Solar深圳线下线下" />
+        </outline>
+        <outline text="&lt;b&gt;4.崔大师培训课程：Build With Solar&lt;/b&gt;">
+          <outline text="定位：《Solar首期开发者课程》" />
+          <outline text="目标：课程的核心目标：1.为华语区培养更多的solana开发者 2.鼓励尽可能多的华语区个人/团队 参与本次hackathon">
+            <outline text="崔大师Solana中文网页丨Update">
+              <outline text="新增：Solana黑客松页面" />
+              <outline text="新增：加入Solar社区页面——TG：Solar Dev" />
+            </outline>
+          </outline>
+          <outline text="&lt;b&gt;Next：&lt;/b&gt;">
+            <outline text="Soalr宣发：崔大师课程网站、留 TG丨Solar Dev 当入口" />
+            <outline text=" TG丨Solar Dev 后续丨 线上Q&amp;A2周一次丨轩睿负责组织，崔大师主要负责Q&amp;A 给大家反馈黑客松的进度、疑问、教程" />
+          </outline>
+        </outline>
+        <outline text="&lt;b&gt;5.后续需要统一下统一下Solar官方入口&lt;/b&gt;">
+          <outline text="&lt;a href=&quot;https://www.solana-cn.com/&quot;&gt;https://www.solana-cn.com/&lt;/a&gt;丨崔大师丨培训" />
+          <outline text="&lt;a href=&quot;https://soldev.cn/&quot;&gt;https://soldev.cn/&lt;/a&gt;丨Shooter丨社区讨论丨线上" />
+          <outline text="TG丨Solar fam丨用户丨线上" />
+          <outline text="TG丨Solar Dev 丨开发者丨线上" />
+        </outline>
+      </outline>
+    </outline>
+    <outline text="人" />
+  </body>
+</opml>
